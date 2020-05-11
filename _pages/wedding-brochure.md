@@ -5,7 +5,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  http://sandbox.yorebridgehouse.co.uk/wedding-brochurekwd1weddingkwd2country/
+  http://sandbox.yorebridgehouse.co.uk/wedding-brochure/
 published: true
 post_date: 2019-09-20 11:18:56
 ---
