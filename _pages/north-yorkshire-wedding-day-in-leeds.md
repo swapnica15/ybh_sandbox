@@ -13,22 +13,33 @@ post_date: 2020-05-12 17:43:59
 
 <h2 class="section-title sub-title">Luxury Wedding Venue – make one of the most popular wedding venues yours for the day</h2>
 Those with a taste for the finer things in life choose Yorebridge House for their North Yorkshire wedding day. This stunning Victorian grade II listed buildings were formerly a Headmaster’s House and School. They sit against a mighty backdrop of hills and rivers in the countryside near Leeds, awaiting your visit.
+
 We have won several awards, and have been crowned the most romantic hotel in the UK. Our team are also second to none. Their love of luxury and fine dining is clear. They are proud to serve at our luxury wedding venue, making your big day one you’ll never forget.
+
 Our luxury hotel wedding venue combines the best service with exceptional décor and views. You’ll soon be enamoured with the beautiful area of North Yorkshire near Leeds.
-When searching for wedding venues it’s rare to find one as simply stunning as Yorebridge House. This 5 star luxury wedding venue is a true gem and exceptional in every way. From the bespoke interiors that take your breath away to the carefully crafted 3AA Rosette menu complemented by a specially selected wine and bar list, you’ll be surrounded with luxury from the minute you set foot here.
-When you hold your wedding at Yorebridge House, we’ll take care of every little detail and add those amazing finishing touches. You can cut your cake, dance and create memories that last a lifetime at our luxury wedding venue. Whatever your request, we can make it a reality. We even offer an extended late night bar for those who really don’t want the day to end.
+
+When searching for wedding venues it’s rare to find one as simply stunning as Yorebridge House. This 5-star luxury wedding venue is a true gem and exceptional in every way. From the bespoke interiors that take your breath away to the carefully crafted 3AA Rosette menu complemented by a specially selected wine and bar list, you’ll be surrounded with luxury from the minute you set foot here.
+
+When you hold your wedding at Yorebridge House, we’ll take care of every little detail and add those amazing finishing touches. You can cut your cake, dance and create memories that last a lifetime at our luxury wedding venue. Whatever your request, we can make it a reality. We even offer an extended late-night bar for those who really don’t want the day to end.
+
 Your North Yorkshire wedding day wouldn’t be complete without a wedding planner – and ours is the best. They will work closely with you to make sure every detail is as magical as you’ve imagined, leaving you to enjoy your day sure that everything is taken care of.
 
 <h2 class="section-title sub-title">Luxury Wedding Venue</h2>
 Yorebridge House provides the ideal location for those seeking country wedding venues, unique wedding venues and exclusive wedding venues.
+
 The countryside beyond Leeds holds stunning scenery that makes an incredible backdrop for photographs. The endless hillsides give way to fairy tale forests full of birdsong and greenery. At night, the stars come out to play and twinkle just for you and your guests. The tranquillity is unbeatable and feels like nowhere else on Earth.
-Standing proudly amongst this stunning scenery is Yorebridge House, your very own luxury hotel wedding venue. Spend just one day here and you’ll leave feeling wonderfully relaxed and completely refreshed.
+
+Standing proudly amongst this stunning scenery is Yorebridge House, your very own luxury hotel wedding venue. 
+
+Spend just one day here and you’ll leave feeling wonderfully relaxed and completely refreshed.
+
 We just love to share our passion for luxury. From the second you arrive, our welcoming team will be on hand to deliver the most personal and professional service. We’ll take care of you and your guests’ every need, completing the experience with a wide range of dining options from our exquisite 3AA Rosette menu.
-Your North Yorkshire wedding day can take place in the room of your choice. We have The Orangery, Marquee and Tipi which all hold up to 120 guests. The Orangery and The Masters Room have licenses for civil partnerships and civil marriages. In The Orangery you won’t be able to take your eyes off the panoramic views of the surrounding countryside in Leeds’s back garden.
-Meanwhile, the Masters Room is ideal for those seeking intimate wedding venues, with space for up to 25 guests. The Masters Room overlooks the grand lawn, creating a beautiful setting for your day.
+
+Your North Yorkshire wedding day can take place in the room of your choice. We have The Orangery, Marquee and Tipi which all hold up to 120 guests. The Orangery and The Master's Room have licenses for civil partnerships and civil marriages. In The Orangery, you won’t be able to take your eyes off the panoramic views of the surrounding countryside in Leeds’s back garden.
+
+Meanwhile, The Master's Room is ideal for those seeking intimate wedding venues, with space for up to 25 guests. The Master's Room overlooks the grand lawn, creating a beautiful setting for your day.
 Hold your North Yorkshire wedding day with us and it will be one you and your guests will remember forever.
-For a truly unforgettable wedding day Yorebridge is the finest choice of luxury wedding venue.
+
+For a truly unforgettable wedding day, Yorebridge is the finest choice of luxury wedding venue.
+
 Start planning your perfect day – get in touch today.
-
-
-<div class=""><div class="wedding_footer"><a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact">Book Now</a></div></div>
