@@ -142,8 +142,7 @@ post_date: 2020-05-12 11:57:51
         </div>
         <div class="yr-content-footer">
           <div>
-            <a href="#" id="readMore4" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal4">Read More</a>
-            <a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
+            <a href="#" id="readMore4" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal4">Read More</a><a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
           </div> 
         </div>
       </div>
@@ -225,8 +224,7 @@ post_date: 2020-05-12 11:57:51
         </div>
         <div class="yr-content-footer">
           <div>
-            <a href="#" id="readMore7" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal7">Read More</a>
-            <a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
+            <a href="#" id="readMore7" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal7">Read More</a><a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
           </div> 
         </div>
       </div>
@@ -301,8 +299,7 @@ post_date: 2020-05-12 11:57:51
         </div>
         <div class="yr-content-footer">
           <div>
-            <a href="#" id="readMore9" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal9">Read More</a>
-            <a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
+            <a href="#" id="readMore9" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal9">Read More</a><a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
           </div> 
         </div>
       </div>
@@ -384,8 +381,7 @@ post_date: 2020-05-12 11:57:51
         </div>
         <div class="yr-content-footer">
           <div>
-            <a href="#" id="readMore11" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal11">Read More</a>
-            <a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
+            <a href="#" id="readMore11" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal11">Read More</a><a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
           </div> 
         </div>
       </div>
