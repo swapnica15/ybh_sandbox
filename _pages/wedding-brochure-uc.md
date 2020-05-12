@@ -258,26 +258,20 @@ post_date: 2020-05-12 11:57:51
     <div class="col-sm-3 yr-col-imgs">
       <div class="row m-0 h-100">
         <div class="col-sm-6 yr-thumbnails">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-33-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-66" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-34-min.jpg" alt="Chania">
+          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-33-min.jpg" alt="Chania"><img class="img-fluid w-100 h-66" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-34-min.jpg" alt="Chania">
         </div>
         <div class="col-sm-6 yr-thumbnails">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-35-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-36-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-37-min.jpg" alt="Chania">
+          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-35-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-36-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-37-min.jpg" alt="Chania">
         </div>
       </div>
     </div>
     <div class="col-sm-3 yr-col-imgs">
       <div class="row m-0 h-100">
         <div class="col-sm-6 yr-thumbnails">
-          <img class="img-fluid w-100 h-66" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-38-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-39-min.jpg" alt="Chania">
+          <img class="img-fluid w-100 h-66" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-38-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-39-min.jpg" alt="Chania">
         </div>
         <div class="col-sm-6 yr-thumbnails">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-40-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-41-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-42-min.jpg" alt="Chania">
+          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-40-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-41-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-42-min.jpg" alt="Chania">
         </div>
       </div>
     </div>
@@ -308,8 +302,7 @@ post_date: 2020-05-12 11:57:51
       <img class="img-fluid w-100 h-100" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-43-min.jpg" alt="Chania">
     </div>
     <div class="col-sm-3 yr-col-imgs">
-      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-44-min.jpg" alt="Chania">
-      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-45-min.jpg" alt="Chania">
+      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-44-min.jpg" alt="Chania"><img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-45-min.jpg" alt="Chania">
     </div>
     <div class="col-sm-3">
       <div class="yr-content-block w-100 h-100 one-liner">
@@ -341,31 +334,25 @@ post_date: 2020-05-12 11:57:51
     <div class="col-sm-3 yr-col-imgs">
       <div class="row m-0 h-100">
         <div class="col-sm-6 yr-thumbnails">
-          <img class="img-fluid w-100 h-66-5" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-50-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-33-5" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-49-min.jpg" alt="Chania">
+          <img class="img-fluid w-100 h-66-5" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-50-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33-5" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-49-min.jpg" alt="Chania">
         </div>
         <div class="col-sm-6 yr-thumbnails">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-53-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-52-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-51-min.jpg" alt="Chania">
+          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-53-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-52-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-51-min.jpg" alt="Chania">
         </div>
       </div>
     </div>
     <div class="col-sm-3 yr-col-imgs">
       <div class="row m-0 h-100">
         <div class="col-sm-6 yr-thumbnails">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-55-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-66" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-54-min.jpg" alt="Chania">
+          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-55-min.jpg" alt="Chania"><img class="img-fluid w-100 h-66" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-54-min.jpg" alt="Chania">
         </div>
         <div class="col-sm-6 yr-thumbnails">
-          <img class="img-fluid w-100 h-66" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-48-min.jpg" alt="Chania">
-          <img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-56-min.jpg" alt="Chania">
+          <img class="img-fluid w-100 h-66" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-48-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-56-min.jpg" alt="Chania">
         </div>
       </div>
     </div>    
     <div class="col-sm-3 yr-col-imgs">
-      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-57-min.jpg" alt="Chania">
-      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-58-min.jpg" alt="Chania">
+      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-57-min.jpg" alt="Chania"><img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-58-min.jpg" alt="Chania">
     </div>
     <div class="col-sm-3">
       <div class="yr-content-block w-100 h-100 one-liner">
@@ -401,8 +388,7 @@ post_date: 2020-05-12 11:57:51
   <!--- Twelveth Row Starts -->
   <div class="row yr-four yr-content yr-imgs twelveth-row">
     <div class="col-sm-3 yr-col-imgs">
-      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-61-min.jpg" alt="Chania">
-      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-62-min.jpg" alt="Chania">
+      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-61-min.jpg" alt="Chania"><img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-62-min.jpg" alt="Chania">
     </div>
     <div class="col-sm-3">
       <div class="yr-content-block w-100 h-100 one-liner">
@@ -448,8 +434,7 @@ post_date: 2020-05-12 11:57:51
       </div>
     </div>
     <div class="col-sm-3 yr-col-imgs">
-      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-63-min.jpg" alt="Chania">
-      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-64-min.jpg" alt="Chania">
+      <img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-63-min.jpg" alt="Chania"><img class="img-fluid w-100 h-50" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-64-min.jpg" alt="Chania">
     </div>
   </div>  
   <!--- Twelveth Row Ends -->
