@@ -9,12 +9,11 @@ permalink: >
 published: true
 post_date: 2020-05-12 11:57:51
 ---
-<div class="yr-container-fluid">
-  <!--- First Row Starts -->
-  <div class="row yr-two yr-imgs first-row">
-    <div class="col-sm-6">
-      <img class="img-fluid w-100 h-100" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-2-min.jpg" alt="Chania">
-    </div>
+<div class="yr-container-fluid"><!--- First Row Starts -->
+<div class="row yr-two yr-imgs first-row">
+<div class="col-sm-6">
+<img class="img-fluid w-100 h-100" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-2-min.jpg" alt="Chania">
+</div>
     <div class="col-sm-6">
       <img class="img-fluid w-100 h-100" src="http://sandbox.yorebridgehouse.co.uk/brochure-images/Yorebridge-Weddings-10-min.jpg" alt="Chania">
     </div>
