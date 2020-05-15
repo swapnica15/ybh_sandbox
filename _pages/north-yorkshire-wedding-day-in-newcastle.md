@@ -13,7 +13,7 @@ post_date: 2020-05-12 18:18:53
 
 <h2 class="section-title sub-title">Luxury wedding venue for those seeking 5 star wedding venues near Newcastle</h2>
 For a truly unforgettable <a href="/#ptdi">North Yorkshire wedding day</a>, choose Yorebridge House. This sophisticated, 5 star <a href="/#flw">luxury wedding venue</a> is in the countryside not far from Newcastle.
-It’s easy to see why Yorebridge House is one of the most popular <a href="/#flw">Wedding venues</a>. Our exquisite hotel is a <a href="/#flw">luxury wedding venue</a>, with indulgence at every turn. You can expect a taste of the finer things in life when you visit us.
+It’s easy to see why Yorebridge House is one of the most popular <a href="/#flw">wedding venues</a>. Our exquisite hotel is a <a href="/#flw">luxury wedding venue</a>, with indulgence at every turn. You can expect a taste of the finer things in life when you visit us.
 
 The North Yorkshire countryside is our backdrop, and it’s not one you’ll forget in a hurry. The tranquil atmosphere and scenery is contrasted by the wildness of the moors. With grand castles, huge waterfalls and medieval villages nearby, this is where fairy tales are made.
 
