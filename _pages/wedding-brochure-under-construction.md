@@ -156,39 +156,7 @@ post_date: 2020-05-07 12:41:44
         <div class="col-sm-3 yr-col-imgs">
           <img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-19-min.jpg" alt="Chania"><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-20-min.jpg" alt="Chania">
         </div>
-        <div class="col-sm-3">
-          <div class="yr-content-block w-100 h-100 one-liner">
-            <div class="yr-content-title">
-              <h3 class="">Tipi Reception</h3>
-            </div>
-            <div class="yr-content-body">
-              <div>
-                <div class="normal">
-                  <p>Based on a traditional Scandinavian design, made from natural materials, our Tipi sits proud on the lawn with a festnoon lit walkway back to the House and bar.</p>
-                  <p>Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire Dales landscape.</p>
-                  <p>Opt for wodden tables and benches or classic rounds with crisp linen and Chiavari chairs, a log burning fire and twinkling fairy lights.</p>
-                </div>
-                <div class="large">
-                  <p>Based on a traditional Scandinavian design, made from natural materials, our Tipi sits proud on the lawn with a festnoon lit walkway back to the House and bar.</p>
-                  <p>Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire Dales landscape.</p>
-                  <p>Opt for wodden tables and benches or classic rounds with crisp linen and Chiavari chairs, a log burning fire and twinkling fairy lights. The Tipi is the perfect space to feel at home in the country.</p>
-                  <p>Enjoy something a little bit different for up to 100 guests.</p>
-                </div>
-                <div class="small">
-                  <p>Based on a traditional Scandinavian design, made from natural materials, our Tipi sits proud on the lawn with a festnoon lit walkway back to the House and bar.</p>
-                  <p>Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire Dales landscape.</p>
-                </div>
-              </div>
-            </div>
-            <div class="yr-content-footer">
-              <div>
-                <a href="#" id="readMore4" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal4">Read More</a><a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
-              </div> 
-            </div>
-          </div>
-        </div>
-
-		        <div class="col-sm-6">
+        <div class="col-sm-6">
           <img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-26-min.jpg" alt="Chania">
         </div>
       </div>  
