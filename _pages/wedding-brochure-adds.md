@@ -5,7 +5,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  http://sandbox.yorebridgehouse.co.uk/wedding-brochure-under-construction/
+  http://sandbox.yorebridgehouse.co.uk/wedding-brochure-adds/
 published: true
 post_date: 2020-05-07 12:41:44
 ---
