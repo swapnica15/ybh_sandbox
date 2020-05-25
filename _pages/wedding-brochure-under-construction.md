@@ -121,7 +121,7 @@ post_date: 2020-05-07 12:41:44
       </div>
       <!--- Fourth Row Ends -->
       <!--- Fifth Row Starts -->
-      <div class="row yr-four yr-content yr-imgs fifth-row">
+      <div class="row yr-three yr-content yr-imgs fifth-row">
         <div class="col-sm-3">
           <div class="yr-content-block w-100 h-100 one-liner">
             <div class="yr-content-title">
@@ -162,7 +162,7 @@ post_date: 2020-05-07 12:41:44
       </div>  
       <!--- Fifth Row Ends -->
       <!--- Sixth Row Starts -->
-      <div class="row yr-two yr-imgs sixth-row">
+      <div class="row yr-three yr-imgs sixth-row">
         <div class="col-sm-6">
           <img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-24-min.jpg" alt="Chania">
         </div>
