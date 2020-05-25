@@ -156,6 +156,37 @@ post_date: 2020-05-07 12:41:44
         <div class="col-sm-3 yr-col-imgs">
           <img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-19-min.jpg" alt="Chania"><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-20-min.jpg" alt="Chania">
         </div>
+        <div class="col-sm-3">
+          <div class="yr-content-block w-100 h-100 one-liner">
+            <div class="yr-content-title">
+              <h3 class="">Tipi Reception</h3>
+            </div>
+            <div class="yr-content-body">
+              <div>
+                <div class="normal">
+                  <p>Based on a traditional Scandinavian design, made from natural materials, our Tipi sits proud on the lawn with a festnoon lit walkway back to the House and bar.</p>
+                  <p>Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire Dales landscape.</p>
+                  <p>Opt for wodden tables and benches or classic rounds with crisp linen and Chiavari chairs, a log burning fire and twinkling fairy lights.</p>
+                </div>
+                <div class="large">
+                  <p>Based on a traditional Scandinavian design, made from natural materials, our Tipi sits proud on the lawn with a festnoon lit walkway back to the House and bar.</p>
+                  <p>Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire Dales landscape.</p>
+                  <p>Opt for wodden tables and benches or classic rounds with crisp linen and Chiavari chairs, a log burning fire and twinkling fairy lights. The Tipi is the perfect space to feel at home in the country.</p>
+                  <p>Enjoy something a little bit different for up to 100 guests.</p>
+                </div>
+                <div class="small">
+                  <p>Based on a traditional Scandinavian design, made from natural materials, our Tipi sits proud on the lawn with a festnoon lit walkway back to the House and bar.</p>
+                  <p>Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire Dales landscape.</p>
+                </div>
+              </div>
+            </div>
+            <div class="yr-content-footer">
+              <div>
+                <a href="#" id="readMore4" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal4">Read More</a><a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
+              </div> 
+            </div>
+          </div>
+        </div>
 
 		        <div class="col-sm-6">
           <img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-26-min.jpg" alt="Chania">
@@ -261,7 +292,70 @@ post_date: 2020-05-07 12:41:44
             </div>
           </div>
         </div>
+
         <div class="col-sm-3 yr-col-imgs">
+          <div class="row m-0 h-100">
+            <div class="col-sm-6 yr-thumbnails">
+              <img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-33-min.jpg" alt="Chania"><img class="img-fluid w-100 h-66" src="../brochure-images/Yorebridge-Weddings-34-min.jpg" alt="Chania">
+            </div>
+            <div class="col-sm-6 yr-thumbnails">
+              <img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-35-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-36-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-37-min.jpg" alt="Chania">
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 yr-col-imgs">
+          <div class="row m-0 h-100">
+            <div class="col-sm-6 yr-thumbnails">
+              <img class="img-fluid w-100 h-66" src="../brochure-images/Yorebridge-Weddings-38-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-39-min.jpg" alt="Chania">
+            </div>
+            <div class="col-sm-6 yr-thumbnails">
+              <img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-40-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-41-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-42-min.jpg" alt="Chania">
+            </div>
+          </div>
+        </div>
+
+
+
+      </div>  
+      <!--- Seventh Row Ends -->
+      <!--- Eighth Row Starts -->
+      <div class="row yr-four yr-content yr-imgs eighth-row">
+        <div class="col-sm-3">
+          <div class="yr-content-block w-100 h-100 yr-menu one-liner">
+            <div class="yr-content-title">
+              <h3 class="">Yore Evening</h3>
+            </div>
+            <div class="yr-content-body">
+              <div>
+                <div class="normal">
+                  <p>Cut the cake, dance your first dance and party the night away! With the option to extend your celebration with our late night bar, you can experience a night to remember with friends and family. With up to 120 guests, enjoy the evening entertainment of your choice, in either The Orangery, Marquee or Tipi.</p>
+                  <p>All your guests’ needs will be catered for with our range of evening menu options.</p>
+                </div>
+                <div class="large">
+                  <p>Cut the cake, dance your first dance and party the night away! With the option to extend your celebration with our late night bar, you can experience a night to remember with friends and family. With up to 120 guests, enjoy the evening entertainment of your choice, in either The Orangery, Marquee or Tipi.</p>
+                  <p>All your guests’ needs will be catered for with our range of evening menu options.</p>
+                  <h3>Evening Menu</h3>
+                  <p>Brioche buns with your choice of bacon, pulled pork, burger and vegetarian alternative with chips and salad</p>
+                  <p>British cheese selection with biscuits, celery, grapes and chutney</p>
+                  <p>Hot buffet of seasonal dishes (supplement applies)</p>
+                  <p>Or the option to opganise external catering.</p>                  
+                </div>
+                <div class="small">
+                  <p>Cut the cake, dance your first dance and party the night away! With the option to extend your celebration with our late night bar, you can experience a night to remember with friends and family. With up to 120 guests, enjoy the evening entertainment of your choice, in either The Orangery, Marquee or Tipi.</p>                
+                </div>
+              </div>
+            </div>
+            <div class="yr-content-footer">
+              <div>
+                <a href="#" id="readMore8" class="readmore" data-toggle="modal" data-target="#myModal8">Read More</a>
+              </div> 
+            </div>
+          </div>
+        </div>
+		        <div class="col-sm-3 yr-col-imgs">
+          <img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-31-min.jpg" alt="Chania"><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-32-min.jpg" alt="Chania">
+        </div>
+		        <div class="col-sm-3 yr-col-imgs">
           <img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-29-min.jpg" alt="Chania"><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-30-min.jpg" alt="Chania">
         </div>
         <div class="col-sm-3">
@@ -312,65 +406,6 @@ post_date: 2020-05-07 12:41:44
               <div>
                 <a href="#" id="readMore7" class="readmore rm_with_bn" data-toggle="modal" data-target="#myModal7">Read More</a><a href="#" class="book_now_btn" id="" data-toggle="modal" data-target="#myContact"> Book Now</a>
               </div> 
-            </div>
-          </div>
-        </div>
-      </div>  
-      <!--- Seventh Row Ends -->
-      <!--- Eighth Row Starts -->
-      <div class="row yr-four yr-content yr-imgs eighth-row">
-        <div class="col-sm-3">
-          <div class="yr-content-block w-100 h-100 yr-menu one-liner">
-            <div class="yr-content-title">
-              <h3 class="">Yore Evening</h3>
-            </div>
-            <div class="yr-content-body">
-              <div>
-                <div class="normal">
-                  <p>Cut the cake, dance your first dance and party the night away! With the option to extend your celebration with our late night bar, you can experience a night to remember with friends and family. With up to 120 guests, enjoy the evening entertainment of your choice, in either The Orangery, Marquee or Tipi.</p>
-                  <p>All your guests’ needs will be catered for with our range of evening menu options.</p>
-                </div>
-                <div class="large">
-                  <p>Cut the cake, dance your first dance and party the night away! With the option to extend your celebration with our late night bar, you can experience a night to remember with friends and family. With up to 120 guests, enjoy the evening entertainment of your choice, in either The Orangery, Marquee or Tipi.</p>
-                  <p>All your guests’ needs will be catered for with our range of evening menu options.</p>
-                  <h3>Evening Menu</h3>
-                  <p>Brioche buns with your choice of bacon, pulled pork, burger and vegetarian alternative with chips and salad</p>
-                  <p>British cheese selection with biscuits, celery, grapes and chutney</p>
-                  <p>Hot buffet of seasonal dishes (supplement applies)</p>
-                  <p>Or the option to opganise external catering.</p>                  
-                </div>
-                <div class="small">
-                  <p>Cut the cake, dance your first dance and party the night away! With the option to extend your celebration with our late night bar, you can experience a night to remember with friends and family. With up to 120 guests, enjoy the evening entertainment of your choice, in either The Orangery, Marquee or Tipi.</p>                
-                </div>
-              </div>
-            </div>
-            <div class="yr-content-footer">
-              <div>
-                <a href="#" id="readMore8" class="readmore" data-toggle="modal" data-target="#myModal8">Read More</a>
-              </div> 
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-3 yr-col-imgs">
-          <img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-31-min.jpg" alt="Chania"><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-32-min.jpg" alt="Chania">
-        </div>
-        <div class="col-sm-3 yr-col-imgs">
-          <div class="row m-0 h-100">
-            <div class="col-sm-6 yr-thumbnails">
-              <img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-33-min.jpg" alt="Chania"><img class="img-fluid w-100 h-66" src="../brochure-images/Yorebridge-Weddings-34-min.jpg" alt="Chania">
-            </div>
-            <div class="col-sm-6 yr-thumbnails">
-              <img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-35-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-36-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-37-min.jpg" alt="Chania">
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-3 yr-col-imgs">
-          <div class="row m-0 h-100">
-            <div class="col-sm-6 yr-thumbnails">
-              <img class="img-fluid w-100 h-66" src="../brochure-images/Yorebridge-Weddings-38-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-39-min.jpg" alt="Chania">
-            </div>
-            <div class="col-sm-6 yr-thumbnails">
-              <img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-40-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-41-min.jpg" alt="Chania"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-42-min.jpg" alt="Chania">
             </div>
           </div>
         </div>
