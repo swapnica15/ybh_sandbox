@@ -695,11 +695,11 @@ Voted the most romantic hotel in the UK, we pride ourselves on creating the most
 <h2>Yore Ceremony</h2>
 We have two beautiful rooms licensed for civil marriages and civil partnerships.
 
-The Orangery, a beautiful room with panoramic views of the Dale, is perfect for up to 90 guests seated, more with standing.
+The Orangery, a beautiful room with panoramic views of the Dale, is perfect for up to 90 guests seated, more withstanding.
 
-The Masters Room, with it's large bay window overlooking the lawn, creates an elegant setting ideal for an intimate ceremony for up to 25 guests.
+The Master's Room, with its large bay window overlooking the lawn, creates an elegant setting ideal for an intimate ceremony for up to 25 guests.
 
-With five beautiful churches nearby, Askrigg, Hawes, Hardraw, Stalling Busk and Aysgarth there is also the option for a church ceremony followed by reception at Torebridge House.
+With five beautiful churches nearby, Askrigg, Hawes, Hardraw, Stalling Busk and Aysgarth there is also the option for a church ceremony followed by a reception at Torebridge House.
 
 Local vicar and registrars contact details available on request.
 
@@ -712,14 +712,14 @@ Local vicar and registrars contact details available on request.
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text menu">
-<div class="modal-body">
+<div class="modal-content full_text menu yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Marquee Reception</h2>
 Situated on the formal lawn with a candlelit walkaway to the House and bar our classic Marquee is the ideal setting for an English garden wedding.
 
-With full use of the House as the marquee your guests can enjoy the elegant interiors and the beautiful outdoors.
+With full use of the House as the marquee, your guests can enjoy the elegant interiors and the beautiful outdoors.
 
 The marquee offers a light and striking space for you to make your own, with a choice of windows, table styles and decorations to create the wedding of your dreams.
 
@@ -734,8 +734,8 @@ Enjoy a graceful and elegant reception amongst stunning countryside, perfect for
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text menu">
-<div class="modal-body">
+<div class="modal-content full_text menu yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Tipi Reception</h2>
@@ -743,7 +743,7 @@ Based on a traditional Scandinavian design, made from natural materials, our Tip
 
 Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire Dales landscape.
 
-Opt for wodden tables and benches or classic rounds with crisp linen and Chiavari chairs, a log burning fire and twinkling fairy lights. The Tipi is the perfect space to feel at home in the country.
+Opt for wooden tables and benches or classic rounds with crisp linen and Chiavari chairs, a log burning fire and twinkling fairy lights. The Tipi is the perfect space to feel at home in the country.
 
 Enjoy something a little bit different for up to 100 guests.
 
@@ -756,14 +756,14 @@ Enjoy something a little bit different for up to 100 guests.
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text menu">
-<div class="modal-body">
+<div class="modal-content full_text menu yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Winter Weddings</h2>
 With it's snow covered hills and frosty pines, there's no where quite like the Yorkshire Dales in Winter. Warm up by the open fire and celebrate by candlelight with a wonderful winter wedding.
 
-For an utterly magical and romantic day we offer special Winter rates throughout November,January and February.
+For an utterly magical and romantic day, we offer special Winter rates throughout November, January and February.
 
 </div>
 </div>
@@ -774,8 +774,8 @@ For an utterly magical and romantic day we offer special Winter rates throughout
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text menu">
-<div class="modal-body">
+<div class="modal-content full_text menu yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>New Year's Eve</h2>
@@ -794,8 +794,8 @@ Include midnight fizz, a firework show, sparkler send off and a late bar for the
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text menu">
-<div class="modal-body">
+<div class="modal-content full_text menu yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Yore Menu</h2>
@@ -816,19 +816,19 @@ Beef Sirloin, Chateau Potato &amp; Yorkshire Pudding
 
 Gilt Head Sea Bream, Tomato &amp; Olive
 
-Nidderdale Chicken, Tarrangon &amp; Mushroom
+Nidderdale Chicken, Tarragon &amp; Mushroom
 
 Poached Duck Egg, Hollandaise Sause &amp; Truffle (V)
 <h4>Desserts</h4>
 Sticky Toffee Pudding, Toffee Sauce &amp; Madagascan Vanilla Ice-Cream
 
-Dark Chocolate Browine, HAzzelnut &amp; Praline Ice-Cream
+Dark Chocolate Brownie, Hazelnut &amp; Praline Ice-Cream
 
 Custard Tart, Nutmeg &amp; Raspberry Sorbet
 
-Cheesecake, Passion fruit, Ginger &amp; MAngo Sorbet
+Cheesecake, Passion fruit, Ginger &amp; Mango Sorbet
 
-Cherry &amp; Almong Tart
+Cherry &amp; Almond Tart
 
 </div>
 </div>
@@ -839,8 +839,8 @@ Cherry &amp; Almong Tart
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text">
-<div class="modal-body">
+<div class="modal-content full_text yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Yore Evening</h2>
@@ -854,7 +854,7 @@ British cheese selection with biscuits, celery, grapes and chutney
 
 Hot buffet of seasonal dishes (supplement applies)
 
-Or the option to opganise external catering.
+Or the option to organise external catering.
 
 </div>
 </div>
@@ -865,8 +865,8 @@ Or the option to opganise external catering.
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text">
-<div class="modal-body">
+<div class="modal-content full_text yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Boutique Bedrooms</h2>
@@ -889,8 +889,8 @@ For Sunday to Thursday weddings special bedroom rates apply and the bridal suite
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text">
-<div class="modal-body">
+<div class="modal-content full_text yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Finishing Touches</h2>
@@ -934,8 +934,8 @@ Fireworks (Bonfire Night, New Years Eve, Chinese New Year)
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text">
-<div class="modal-body">
+<div class="modal-content full_text yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Private Dining</h2>
@@ -956,8 +956,8 @@ Extend the festivities and celebrate with your friends and family with complimen
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text menu">
-<div class="modal-body">
+<div class="modal-content full_text menu yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Local Area</h2>
@@ -1008,8 +1008,8 @@ Hawes to Hardraw
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text menu">
-<div class="modal-body">
+<div class="modal-content full_text menu yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>What's Included</h2>
@@ -1018,11 +1018,11 @@ A glass of Prosecco or soft drink for your reception
 
 Toast drink for during speeches
 
-Half a bottle of sommelier selected wine with your wedding breakfast
+Half a bottle of sommelier-selected wine with your wedding breakfast
 
 A selection of three canapés
 
-A three course menu prepared by our 3AA rosette kitchen team
+A three-course menu prepared by our 3AA rosette kitchen team
 
 Still and sparkling water
 
@@ -1038,7 +1038,7 @@ Wedding coordinator to assist in every stage of your planning
 
 Master of Ceremonies on your day
 
-Dressing Service with your choosen decorations
+Dressing Service with your chosen decorations
 
 Table linen and napkins
 
