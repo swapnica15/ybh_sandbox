@@ -668,8 +668,8 @@ post_date: 2020-05-07 12:41:44
 <div class="modal-dialog">
 
 <!-- Modal content-->
-<div class="modal-content full_text menu">
-<div class="modal-body">
+<div class="modal-content full_text menu yr-container-fluid">
+<div class="modal-body yr-content-body">
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>The Simple Life at a Luxury Level</h2>
