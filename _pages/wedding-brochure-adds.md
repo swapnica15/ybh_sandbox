@@ -230,8 +230,7 @@ post_date: 2020-05-07 12:41:44
                 </div> 
               </div>
             </div>
-          </div>
-<img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-28-min.jpg" alt="Chania"></div>
+          </div><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-28-min.jpg" alt="Chania"></div>
         <div class="col-sm-3 yr-col-imgs">
           <img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-27-min.jpg" alt="Chania">
           <div class="yr-content-block w-100 h-50 mini-liner">
