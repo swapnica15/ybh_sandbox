@@ -307,36 +307,36 @@ post_date: 2020-05-07 12:41:44
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-6">
-<img src="" class="img-fluid">
+<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid">
 </div>
 <div class="col-md-6">
-<img src="" class="img-fluid">
+<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid">
 </div>
 <div class="col-md-6">
-<img src="" class="img-fluid">
+<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid">
 </div>
 <div class="col-md-6">
-<img src="" class="img-fluid">
+<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid">
 </div>
 </div>
 </div>
 <div class="col-md-4">
-<img src="" class="img-fluid">
+<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid">
 <h1>Ranked #1 Sulawesi, Indonesia</h1>
 </div>
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-6">
-<img src="" class="img-fluid">
+<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid">
 </div>
 <div class="col-md-6">
-<img src="" class="img-fluid">
+<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid">
 </div>
 <div class="col-md-6">
-<img src="" class="img-fluid">
+<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid">
 </div>
 <div class="col-md-6">
-<img src="" class="img-fluid">
+<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid">
 </div>
 </div>
 </div>
