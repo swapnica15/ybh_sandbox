@@ -87,10 +87,10 @@ post_date: 2020-05-07 12:41:44
 <div class="col-md-6">
 <div class="row">
 <div class="col-md-6">
-<img src="https://heritage-escapes.co.uk/wp-content/uploads/TA19-Logo-winner2-300x206.jpg" class="img-fluid w-100">
+<img src="https://heritage-escapes.co.uk/wp-content/uploads/TA19-Logo-winner2-300x206.jpg" class="img-fluid">
 </div>
 <div class="col-md-6">
-<img src="https://cdn.evbuc.com/eventlogos/5442162/wralogogeneric.jpg" class="img-fluid w-100">
+<img src="https://cdn.evbuc.com/eventlogos/5442162/wralogogeneric.jpg" class="img-fluid">
 </div>
 </div>
 </div>
