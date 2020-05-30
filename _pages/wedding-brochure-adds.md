@@ -321,8 +321,8 @@ post_date: 2020-05-07 12:41:44
 </div>
 </div>
 <div class="col-sm-4">
-<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid">
-<h1>Ranked #1 Sulawesi, Indonesia</h1>
+<img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid px-20">
+<h3>Ranked #1 <br> Sulawesi, Indonesia</h3>
 </div>
 <div class="col-sm-4">
 <div class="row">
