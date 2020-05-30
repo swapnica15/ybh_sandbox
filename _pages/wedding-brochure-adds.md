@@ -220,7 +220,7 @@ post_date: 2020-05-07 12:41:44
       <!--- Sixth Row Ends -->
       <!--- Seventh Row Starts -->
       <div class="row yr-four yr-content yr-imgs seventh-row">
-        <div class="col-sm-3 yr-col-imgs">
+        <div class="col-sm-3 yr-col-imgs one">
           <div class="yr-col-content w-100 h-50">
             <div class="yr-content-block w-100 h-100 mini-liner">
               <div class="yr-content-title">
