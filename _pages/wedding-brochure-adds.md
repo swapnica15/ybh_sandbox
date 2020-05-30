@@ -301,6 +301,48 @@ post_date: 2020-05-07 12:41:44
 
       </div>  
       <!--- Seventh Row Ends -->
+<div class="row adv-row2">
+<div class="col-md-8 mx-auto">
+<div class="row">
+<div class="col-md-4">
+<div class="row">
+<div class="col-md-6">
+<img src="" class="img-fluid">
+</div>
+<div class="col-md-6">
+<img src="" class="img-fluid">
+</div>
+<div class="col-md-6">
+<img src="" class="img-fluid">
+</div>
+<div class="col-md-6">
+<img src="" class="img-fluid">
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<img src="" class="img-fluid">
+<h1>Ranked #1 Sulawesi, Indonesia</h1>
+</div>
+<div class="col-md-4">
+<div class="row">
+<div class="col-md-6">
+<img src="" class="img-fluid">
+</div>
+<div class="col-md-6">
+<img src="" class="img-fluid">
+</div>
+<div class="col-md-6">
+<img src="" class="img-fluid">
+</div>
+<div class="col-md-6">
+<img src="" class="img-fluid">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
       <!--- Eighth Row Starts -->
       <div class="row yr-four yr-content yr-imgs eighth-row">
         <div class="col-sm-3">
