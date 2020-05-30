@@ -302,7 +302,7 @@ post_date: 2020-05-07 12:41:44
       </div>  
       <!--- Seventh Row Ends -->
 <div class="row adv-row2">
-<div class="col-sm-8 mx-auto">
+<div class="col-sm-12 mx-auto">
 <div class="row">
 <div class="col-sm-4">
 <div class="row">
