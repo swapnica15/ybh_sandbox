@@ -79,6 +79,22 @@ post_date: 2020-05-07 12:41:44
         </div>
       </div>  
       <!--- Second Row Ends -->
+<div class="row adv-row1">
+<div class="col-md-6">
+<h1>AWARD WINNING HOTAL & RESTAURANT</h1>
+<p>We have two beautiful rooms licensed for civil marriages and civil partnerships. The Orangery, a beautiful room with panoramic views of the Dale, is perfect for up to 90 guests seated, more with standing. The Masters Room, with it’s large bay window overlooking the lawn, creates an elegant setting ideal for an intimate ceremony for up to 25 guests.</p>
+</div>
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-6">
+<img src="https://heritage-escapes.co.uk/wp-content/uploads/TA19-Logo-winner2-300x206.jpg" class="img-fluid w-100">
+</div>
+<div class="col-md-6">
+<img src="https://cdn.evbuc.com/eventlogos/5442162/wralogogeneric.jpg" class="img-fluid w-100">
+</div>
+</div>
+</div>
+</div>
       <!--- Third Row Starts -->
       <div class="row yr-three yr-content yr-imgs third-row">
         <div class="col-sm-3">
