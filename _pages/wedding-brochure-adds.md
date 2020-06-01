@@ -531,7 +531,7 @@ post_date: 2020-05-07 12:41:44
       </div>  
       <!--- Ninth Row Ends -->
       <!--- Tenth Row Starts -->
-      <div class="row yr-four yr-content yr-imgs tenth-row">
+      <div class="row yr-three yr-content yr-imgs tenth-row">
         <div class="col-sm-3 yr-col-imgs">
           <div class="row m-0 h-100">
             <div class="col-sm-6 yr-thumbnails">
@@ -552,7 +552,20 @@ post_date: 2020-05-07 12:41:44
             </div>
           </div>
         </div>    
-        <div class="col-sm-3 yr-col-imgs">
+        <div class="col-sm-6">
+          <img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-60-min.jpg" alt="Chania">
+        </div>
+		
+      </div>  
+      <!--- Tenth Row Ends -->
+      <!--- Eleventh Row Starts -->
+      <div class="row yr-three yr-imgs eleventh-row">
+        <div class="col-sm-6">
+          <img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-59-min.jpg" alt="Chania">
+        </div>
+		
+		
+		<div class="col-sm-3 yr-col-imgs">
           <img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-57-min.jpg" alt="Chania"><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-58-min.jpg" alt="Chania">
         </div>
         <div class="col-sm-3">
@@ -587,16 +600,9 @@ post_date: 2020-05-07 12:41:44
             </div>
           </div>
         </div>
-      </div>  
-      <!--- Tenth Row Ends -->
-      <!--- Eleventh Row Starts -->
-      <div class="row yr-two yr-imgs eleventh-row">
-        <div class="col-sm-6">
-          <img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-59-min.jpg" alt="Chania">
-        </div>
-        <div class="col-sm-6">
-          <img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-60-min.jpg" alt="Chania">
-        </div>
+		
+		
+
       </div>
       <!--- Eleventh Row Ends -->
       <!--- Twelveth Row Starts -->
