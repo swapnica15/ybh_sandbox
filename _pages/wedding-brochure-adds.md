@@ -299,10 +299,7 @@ post_date: 2020-05-07 12:41:44
             </div>
           </div>
         </div>
-
-
-
-      </div>  
+     </div>  
       <!--- Seventh Row Ends -->
 <div class="row adv-row2">
 <div class="col-sm-12 mx-auto">
@@ -325,7 +322,8 @@ post_date: 2020-05-07 12:41:44
 </div>
 <div class="col-sm-4">
 <img src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" class="img-fluid px-20">
-<h3>Ranked #1 <br> Sulawesi, Indonesia</h3>
+<h3>
+<a href="https://www.tripadvisor.in/Restaurant_Review-g1062542-d1948206-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_Englan.html?m=19905">Certificate of Excellence<br>2016 - 2018 Winner</a></h3>
 </div>
 <div class="col-sm-4">
 <div class="row">
