@@ -91,37 +91,37 @@ post_date: 2020-05-07 12:41:44
 
 <div class="col-sm-4">
 <div class="preview-cero">
-<img src="https://heritage-escapes.co.uk/wp-content/uploads/TA19-Logo-winner2-300x206.jpg" class="img-fluid">
+<img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/10/footer-logo1.png" class="img-fluid">
 </div>
 </div>
 
 <div class="col-sm-4">
 <div class="preview-cero">
-<img src="https://cdn.evbuc.com/eventlogos/5442162/wralogogeneric.jpg" class="img-fluid">
+<img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/10/footer-logo2.png" class="img-fluid">
 </div>
 </div>
 
 <div class="col-sm-4">
 <div class="preview-cero">
-<img src="https://cdn.evbuc.com/eventlogos/5442162/wralogogeneric.jpg" class="img-fluid">
+<img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/10/footer-logo4.png" class="img-fluid">
 </div>
 </div>
 
 <div class="col-sm-4">
 <div class="preview-cero">
-<img src="https://heritage-escapes.co.uk/wp-content/uploads/TA19-Logo-winner2-300x206.jpg" class="img-fluid">
+<img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/10/footer-logo1.png" class="img-fluid">
 </div>
 </div>
 
 <div class="col-sm-4">
 <div class="preview-cero">
-<img src="https://cdn.evbuc.com/eventlogos/5442162/wralogogeneric.jpg" class="img-fluid">
+<img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/10/footer-logo2.png" class="img-fluid">
 </div>
 </div>
 
 <div class="col-sm-4">
 <div class="preview-cero">
-<img src="https://heritage-escapes.co.uk/wp-content/uploads/TA19-Logo-winner2-300x206.jpg" class="img-fluid">
+<img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/10/footer-logo4.png" class="img-fluid">
 </div>
 </div>
 
