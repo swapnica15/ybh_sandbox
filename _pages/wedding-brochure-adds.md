@@ -85,14 +85,26 @@ post_date: 2020-05-07 12:41:44
 <div>We have two beautiful rooms licensed for civil marriages and civil partnerships. The Orangery, a beautiful room with panoramic views of the Dale, is perfect for up to 90 guests seated, more with standing. The Masters Room, with it’s large bay window overlooking the lawn, creates an elegant setting ideal for an intimate ceremony for up to 25 guests.</div>
 </div>
 <div class="col-md-6">
-<div class="row">
-<div class="col-md-6">
+
+
+<div class="row caro-ads">
+
+<div class="col-md-4">
 <img src="https://heritage-escapes.co.uk/wp-content/uploads/TA19-Logo-winner2-300x206.jpg" class="img-fluid">
 </div>
-<div class="col-md-6">
+
+<div class="col-md-4">
 <img src="https://cdn.evbuc.com/eventlogos/5442162/wralogogeneric.jpg" class="img-fluid">
 </div>
+
+<div class="col-md-4">
+<img src="https://cdn.evbuc.com/eventlogos/5442162/wralogogeneric.jpg" class="img-fluid">
 </div>
+
+</div>
+
+
+
 </div>
 </div>
       <!--- Third Row Starts -->
