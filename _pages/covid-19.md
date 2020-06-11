@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2020-06-10 17:58:47
 ---
-<div class="section-title section-title-followed-by-content"><h2>COVID-19 Update</h2>
+<div class="section-title section-title-followed-by-content covid-head"><h2>COVID-19 Update</h2>
 We are taking bookings from the 15th July onward with a relaxed cancellation policy.
 please see details below:
 
