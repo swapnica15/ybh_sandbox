@@ -14,7 +14,7 @@ We are taking bookings from the 15th July onward with a relaxed cancellation pol
 please see details below:
 </div>
 Whilst closed, we have been busy preparing for our reopening under new Covid Secure guidelines, whilst also thinking of lots of wonderful ways we can ensure our usual friendly, welcoming luxurious and comfortable customer experience. Although we can still promise you a wonderful stay at Yorebridge House, there will be a few changes in place to ensure the ongoing safety of our guests and staff. Once we receive the official Government guidelines we will compile a full information document so you can see exactly what procedures have been put in place to ensure we are Covid Secure, but in the meantime, for your peace of mind, here is a shortlist of some of the changes we are making in the first few weeks from the opening:
-<ul>
+<ul class="bulet">
  	<li>We will be offering a new, simple, fresh all-day menu using produce from our own Kitchen Garden as well as local producers and suppliers. Served as room Service, garden service or indoor service (if permitted).</li>
  	<li>Once indoor service is permitted there will be new table layouts across the Restaurant, Bar and Master's room to adhere to social distancing guidelines</li>
  	<li>Service tables will be provided to ensure staff can maintain a social distance whilst serving your food and drinks.</li>
