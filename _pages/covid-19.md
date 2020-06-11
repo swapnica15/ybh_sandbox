@@ -11,7 +11,9 @@ post_date: 2020-06-10 17:58:47
 ---
 <div class="section-title section-title-followed-by-content"><h2>COVID-19 Update</h2>
 We are taking bookings from the 15th July onward with a relaxed cancellation policy.
-please see details below:<br />
+please see details below:
+
+
 </div>
 Whilst closed, we have been busy preparing for our reopening under new Covid Secure guidelines, whilst also thinking of lots of wonderful ways we can ensure our usual friendly, welcoming luxurious and comfortable customer experience. Although we can still promise you a wonderful stay at Yorebridge House, there will be a few changes in place to ensure the ongoing safety of our guests and staff. Once we receive the official Government guidelines we will compile a full information document so you can see exactly what procedures have been put in place to ensure we are Covid Secure, but in the meantime, for your peace of mind, here is a shortlist of some of the changes we are making in the first few weeks from the opening:
 <ul class="bulet">
