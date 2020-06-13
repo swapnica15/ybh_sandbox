@@ -1,6 +1,6 @@
 ---
 ID: 3813
-post_title: Covid 19
+post_title: Yore Safe Haven
 author: Bryan Richards
 post_excerpt: ""
 layout: page
