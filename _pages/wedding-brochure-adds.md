@@ -325,30 +325,7 @@ A perfect ending and a perfect beginning.
 </div>
 <!--- Seventh Row Ends -->
 <div class="row second-adv adv-row1">
-	<!--div class="col-sm-12 mx-auto">
-		<div class="row">
-		<div class="col-sm-4">
-		<div class="row">
-		<div class="col-sm-6"><img class="img-fluid" src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" /></div>
-		<div class="col-sm-6"><img class="img-fluid" src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" /></div>
-		<div class="col-sm-6"><img class="img-fluid" src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" /></div>
-		<div class="col-sm-6"><img class="img-fluid" src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" /></div>
-		</div>
-		</div>
-		<div class="col-sm-4"><img class="img-fluid px-20" src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" />
-		<h3><a href="https://www.tripadvisor.in/Restaurant_Review-g1062542-d1948206-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_Englan.html?m=19905">Certificate of Excellence
-		2016 - 2018 Winner</a></h3>
-		</div>
-		<div class="col-sm-4">
-		<div class="row">
-		<div class="col-sm-6"><img class="img-fluid" src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" /></div>
-		<div class="col-sm-6"><img class="img-fluid" src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" /></div>
-		<div class="col-sm-6"><img class="img-fluid" src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" /></div>
-		<div class="col-sm-6"><img class="img-fluid" src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" /></div>
-		</div>
-		</div>
-		</div>
-	</div-->	
+	
 	<div class="col-md-6 caro-ads_img">
 		<div class="row caro-ads ">
 			<div class="col-sm-3">
