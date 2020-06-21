@@ -324,7 +324,7 @@ A perfect ending and a perfect beginning.
 </div>
 </div>
 <!--- Seventh Row Ends -->
-<div class="row adv-row2 adv-row1">
+<div class="row second-adv adv-row1">
 	<!--div class="col-sm-12 mx-auto">
 		<div class="row">
 		<div class="col-sm-4">
