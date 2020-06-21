@@ -335,7 +335,7 @@ A perfect ending and a perfect beginning.
 				<div class="logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
 			</div>
 			<div class="col-sm-3">
-				<div id="TA_certificateOfExcellence86" class="TA_certificateOfExcellence"><ul id="OdF1rJ9mSIV" class="TA_links q9DTEDR"><li id="6gmFMOO" class="eQlgkShse"><a target="_blank" href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html"><img src="https://www.tripadvisor.co.uk/img/cdsi/img2/awards/CoE2017_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/></a></li></ul></div><script async src="https://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=86&amp;locationId=953801&amp;lang=en_UK&amp;year=2019&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
+				<div class="logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
 			</div>
 			<div class="col-sm-3">
 				<div class="logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
@@ -344,12 +344,12 @@ A perfect ending and a perfect beginning.
 				<div class="logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
 			</div>
 			<div class="col-sm-3">
-				<div id="TA_certificateOfExcellence86" class="TA_certificateOfExcellence"><ul id="OdF1rJ9mSIV" class="TA_links q9DTEDR"><li id="6gmFMOO" class="eQlgkShse"><a target="_blank" href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html"><img src="https://www.tripadvisor.co.uk/img/cdsi/img2/awards/CoE2017_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/></a></li></ul></div><script async src="https://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=86&amp;locationId=953801&amp;lang=en_UK&amp;year=2019&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
+				<div class="logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
 			</div>
 	</div>
 		</div>
 	<div class="col-md-6">
-               <div class=" "><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tripadvisor-text.png" /></div>
+               <div class=" "><a href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tripadvisor-text.png" /></a></div>
 	</div>
 </div>
 <!--- Eighth Row Starts -->
