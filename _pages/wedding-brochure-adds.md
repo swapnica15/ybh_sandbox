@@ -349,7 +349,7 @@ A perfect ending and a perfect beginning.
 		</div>
 	</div>
 	<div class="col-md-6">
-<div class=" "><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
+<div class=" "><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tripadvisor-text.png" /></div>
 	</div>
 </div>
 <!--- Eighth Row Starts -->
