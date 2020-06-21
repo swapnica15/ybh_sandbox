@@ -349,8 +349,7 @@ A perfect ending and a perfect beginning.
 		</div>
 	</div>
 	<div class="col-md-6">
-		<h1>AWARD WINNING HOTEL &amp; RESTAURANT</h1>
-		<div>We have two beautiful rooms licensed for civil marriages and civil partnerships. The Orangery, a beautiful room with panoramic views of the Dale, is perfect for up to 90 guests seated, more with standing. The Masters Room, with it’s large bay window overlooking the lawn, creates an elegant setting ideal for an intimate ceremony for up to 25 guests.</div>
+<div class=" "><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
 	</div>
 </div>
 <!--- Eighth Row Starts -->
