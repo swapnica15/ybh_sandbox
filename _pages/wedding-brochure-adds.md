@@ -327,11 +327,11 @@ A perfect ending and a perfect beginning.
 <div class="row second-adv adv-row1">
 	
 	<div class="col-md-6 caro-ads_img">
-		
-		</div>
+		<div class=" "><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tripadvisor-text.png" /></div>
+	</div>
 	</div>
 	<div class="col-md-6">
-<div class=" "><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tripadvisor-text.png" /></div>
+               <div class=" "><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tripadvisor-text.png" /></div>
 	</div>
 </div>
 <!--- Eighth Row Starts -->
