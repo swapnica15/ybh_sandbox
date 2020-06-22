@@ -1,6 +1,6 @@
 ---
 ID: 3739
-post_title: 'Wedding Brochure &#8211; Under Construction'
+post_title: 'Wedding Brochure &#8211; adds'
 author: Bryan Richards
 post_excerpt: ""
 layout: page
