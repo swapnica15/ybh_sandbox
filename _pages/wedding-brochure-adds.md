@@ -325,42 +325,30 @@ A perfect ending and a perfect beginning.
 </div>
 <!--- Seventh Row Ends -->
 <div class="row second-adv adv-row1">
-	
-	<div class="col-md-6 caro-ads_img">
-		<div class="row caro-ads ">
-			<div class="col-sm-3">
-				<div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
-			</div>
+ <div class="col-md-6 caro-ads_img">
+	<div class="row caro-ads ">
+  <div class="col-sm-3">
+<div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
+</div>
+<div class="col-sm-3">
+<div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
+</div>
+</div>
 		</div>
-	</div>
-
-	<div class="col-md-6 caro-ads_img">
-		<div class="row caro-ads ">
-			<div class="col-sm-12">
-				<div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review1-min.jpg" /></div>
-			</div>
-			<div class="col-sm-12">
-				<div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review2-min.jpg" /></div>
-			</div>
-			<div class="col-sm-12">
-				<div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review3-min.jpg" /></div>
-			</div>
-		</div>
+	<div class="col-md-6">
+               <div class=" "><a target="_blank" href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tripadvisor-text.png" /></a></div>
 	</div>
 </div>
 <!--- Eighth Row Starts -->
