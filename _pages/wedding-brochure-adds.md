@@ -347,12 +347,21 @@ A perfect ending and a perfect beginning.
 </div>
 </div>
 		</div>
-	<div class="col-md-4">
-               <div class=" "><a target="_blank" href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tripadvisor-text.png" /></a></div>
-	</div>
-	<div class="col-md-4">
-               <div class=" "><a target="_blank" href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tripadvisor-text.png" /></a></div>
-	</div>
+		<div class="col-md-4"><img class="img-fluid px-20" src="https://www.elephanthills.com/wp-content/uploads/2019/04/TC-2019-WHITE-L-R@2x.jpg" />
+<h3><a href="https://www.tripadvisor.in/Restaurant_Review-g1062542-d1948206-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_Englan.html?m=19905">Certificate of Excellence
+2016 - 2018 Winner</a></h3>
+</div>
+<div class="col-md-4">
+<div class="row">
+<div class="col-sm-12">
+<div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review1-min.jpg" /></div>
+</div>
+<div class="col-sm-12">
+<div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review2-min.jpg" /></div>
+</div>
+</div>
+</div>
+	
 </div>
 <!--- Eighth Row Starts -->
 <div class="row yr-four yr-content yr-imgs eighth-row">
