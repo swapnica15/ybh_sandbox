@@ -353,7 +353,7 @@ A perfect ending and a perfect beginning.
 <div class="col-sm-4 caro-ads_img two">
 <div class="row caro-ads1">
 <div class="col-sm-12">
-<div><div><img class="img-rating" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/5-rating.png" /><h4 class="rating">Stewart R</h4></div><h4>Incredible New Year's Eve Wedding</h4><div class="normal">When they finally chose Yorebridge House for a New Year's Eve wedding we were secretly delighted. The venue oozed class and charm in equal measures.<br /><a target="_blank" href="https://www.tripadvisor.in/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html">Read More...</a></div></div>
+<div><h4 class="rating">Stewart R</h4><img class="img-rating" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/5-rating.png" /><h4>Incredible New Year's Eve Wedding</h4><div class="normal">When they finally chose Yorebridge House for a New Year's Eve wedding we were secretly delighted. The venue oozed class and charm in equal measures.<br /><a target="_blank" href="https://www.tripadvisor.in/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html">Read More...</a></div></div>
 </div>
 <div class="col-sm-12">
 <div class=""><h4 class="rating">Landon S</h4><img class="img-rating" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/5-rating.png" /><h4>Amazing hotel & Wedding Venue</h4><div class="normal">Was fortunate enough to be a part of a wedding at Yorebridge House over New Year’s holiday 2019/20.<br />We stayed three days at the hotel with the wedding happening on the second night... <br /><a target="_blank" 
