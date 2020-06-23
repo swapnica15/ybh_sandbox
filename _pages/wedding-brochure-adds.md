@@ -359,6 +359,9 @@ A perfect ending and a perfect beginning.
 <div class="col-sm-12">
 <div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review2-min.jpg" /></div>
 </div>
+<div class="col-sm-12">
+<div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review2-min.jpg" /></div>
+</div>
 </div>
 </div>
 	
