@@ -352,7 +352,7 @@ A perfect ending and a perfect beginning.
 2016 - 2018 Winner</a></h3>
 </div>
 <div class="col-md-4 caro-ads_img">
-<div class="row caro-ads">
+<div class="row caro-ads1">
 <div class="col-sm-12">
 <div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review1-min.jpg" /></div>
 </div>
