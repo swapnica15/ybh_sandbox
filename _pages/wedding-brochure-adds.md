@@ -353,7 +353,7 @@ A perfect ending and a perfect beginning.
 <div class="col-sm-4 caro-ads_img two">
 <div class="row caro-ads1">
 <div class="col-sm-12">
-<div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review1-min.jpg" /></div>
+<div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review1.jpg" /></div>
 </div>
 <div class="col-sm-12">
 <div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review2-min.jpg" /></div>
