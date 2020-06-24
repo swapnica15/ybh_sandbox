@@ -360,7 +360,7 @@ A perfect ending and a perfect beginning.
 href="https://www.tripadvisor.in/Profile/5stewartr?fid=434efbe4-4eaf-4931-b259-e6f7fc7a51ad">...</a></div></div>
 </div>
 <div class="col-sm-12">
-<div class=""><img class="img-tripadvisor" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review_3_opt.png" /><h4 class="tripadvisor_rating">Amazing hotel & wedding venue<a target="_blank" href="https://www.tripadvisor.in/Profile/landonsls?fid=c30afd7f-c427-4c8d-a176-db57458c9a51">...</a</h4><div class="tripadvisor_normal">Was fortunate enough to be a part of a wedding at Yorebridge House over New Year’s holiday 2019/20.We stayed three days at the hotel with the wedding happeni<a target="_blank" href="https://www.tripadvisor.in/Profile/landonsls?fid=c30afd7f-c427-4c8d-a176-db57458c9a51">...</a></div></div>
+<div class=""><img class="img-tripadvisor" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review_3_opt.png" /><h4 class="tripadvisor_rating">Amazing hotel & wedding venue<a target="_blank" href="https://www.tripadvisor.in/Profile/landonsls?fid=c30afd7f-c427-4c8d-a176-db57458c9a51">...</a></h4><div class="tripadvisor_normal">Was fortunate enough to be a part of a wedding at Yorebridge House over New Year’s holiday 2019/20.We stayed three days at the hotel with the wedding happeni<a target="_blank" href="https://www.tripadvisor.in/Profile/landonsls?fid=c30afd7f-c427-4c8d-a176-db57458c9a51">...</a></div></div>
 </div>
 </div>
 </div>
