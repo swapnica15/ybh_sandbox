@@ -326,23 +326,23 @@ A perfect ending and a perfect beginning.
 <!--- Seventh Row Ends -->
 <div class="row second-adv adv-row1">
  <div class="col-sm-4 caro-ads_img one">
-	<div class="row caro-ads ">
-  <div class="col-sm-3">
+<div class="row caro-ads ">
+  <div class="col-sm-6">
 <div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
 </div>
-<div class="col-sm-3">
+<div class="col-sm-6">
 <div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
 </div>
-<div class="col-sm-3">
+<div class="col-sm-6">
 <div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
 </div>
-<div class="col-sm-3">
+<div class="col-sm-6">
 <div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
 </div>
-<div class="col-sm-3">
+<div class="col-sm-6">
 <div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
 </div>
-<div class="col-sm-3">
+<div class="col-sm-6">
 <div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
 </div>
 </div>
