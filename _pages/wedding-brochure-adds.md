@@ -326,7 +326,7 @@ A perfect ending and a perfect beginning.
 <!--- Seventh Row Ends -->
 <div class="row second-adv adv-row1">
  <div class="col-sm-4 caro-ads_img one">
-<div class="row caro-ads ">
+<div class="row caro-ads2 ">
   <div class="col-sm-6">
 <div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
 </div>
