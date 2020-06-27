@@ -326,7 +326,7 @@ A perfect ending and a perfect beginning.
 <!--- Seventh Row Ends -->
 <div class="row second-adv adv-row1">
   <div class="col-sm-4 caro-ads_img one">
-     <div class="row caro-ads2 ">
+     <div class="row caro-ads2 tripadvisor-dots">
         <div class="col-sm-6">
             <div class="preview-cero2 logo_1">
                <img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" />
@@ -355,7 +355,7 @@ A perfect ending and a perfect beginning.
 <a target="_blank" href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html"><img class="img-fluid px-20 tripadvisor-logo" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/trip-adver-ratings.png" /></a>
 </div>
 <div class="col-sm-4 caro-ads_img two">
-<div class="row caro-ads1">
+<div class="row caro-ads1 tripadvisor-dots">
 <div class="col-sm-12">
 <div><img class="img-tripadvisor" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review_1_opt.png" /><h4 class="tripadvisor_rating">Perfect wedding day</h4><div class="tripadvisor_normal">Myself and husband fell in love with this hotel as soon as we visited. The service and attention to detail is impeccable and we soon decided this was our perfec<a target="_blank" href="https://www.tripadvisor.in/Profile/19hannah90?fid=45404865-19b7-451e-b9c6-61cce5794d16">...</a></div></div>
 </div>
