@@ -325,7 +325,7 @@ A perfect ending and a perfect beginning.
 </div>
 </div>
 <!--- Seventh Row Ends -->
-<div class="row second-adv adv-row1">
+<div class="row second-adv tripadvisor adv-row1">
   <div class="col-sm-4 caro-ads_img one">
      <div class="row caro-ads2 tripadvisor-dots">
 
