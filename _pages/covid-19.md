@@ -12,8 +12,6 @@ post_date: 2020-06-10 17:58:47
 <div class="section-title section-title-followed-by-content covid-head"><h2>COVID-19 Update</h2>
 We are taking bookings from the 10<sup class="date-sup">th</sup> July onward with a relaxed cancellation policy.
 please see details below:
-
-
 </div>
 Whilst closed, we have been busy preparing for our reopening under new Covid Secure guidelines, whilst also thinking of lots of wonderful ways we can ensure our usual friendly, welcoming luxurious and comfortable customer experience. 
 
