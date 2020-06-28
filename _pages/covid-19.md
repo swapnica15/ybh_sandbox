@@ -31,11 +31,11 @@ Once we receive the official Government guidelines we will compile a full inform
  	<li>There will be additional cleaning procedures carried across all departments including extensive sanitisation protocols.</li>
  	<li>Sanitising products will be available throughout the hotel for guest use.</li>
  	<li>Walk Menus will be available in your room which has been designed by the staff who have spent lockdown exploring the local area and will include their personal tips and advice for each walk. You can call reception to order your walk from the menu and a printed walk will be delivered outside your door!</li>
- 	<li>Hamper menus will also be available in your room for you to order to accompany the wonderful walks!</li>
-        <li>Now we have an official date to be able to open our doors and official guidelines from the Government on safety and restrictions we are now taking bookings from the 10th July onward.</li>
-        <li>If you were booked in to stay with us earlier this year, we still have the details of your original booking and will do our utmost to get you re-booked in the near future!</li>
-        
-</ul>
+ 	<li>Hamper menus will also be available in your room for you to order to accompany the wonderful walks!</li></ul>
+
+Now we have an official date to be able to open our doors and official guidelines from the Government on safety and restrictions we are now taking bookings from the 10th July onward.
+
+If you were booked in to stay with us earlier this year, we still have the details of your original booking and will do our utmost to get you re-booked in the near future!       
 
 We really look forward to welcoming you to Yorebridge House in the near future and giving you a wonderful Yorkshire welcome!!
 
