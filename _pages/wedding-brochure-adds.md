@@ -116,28 +116,28 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/2016666.jpg" /></div>
 			</div>
 			<div class="col-sm-3">
-				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/aab2017.jpg" /></div>
+				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/aab2017.jpg" /></div>
 			</div>
 			<div class="col-sm-3">
-				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/awa2017dfgd4.jpg" /></div>
+				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/awa2017dfgd4.jpg" /></div>
 			</div>
 			<div class="col-sm-3">
-				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/cateys2016.jpg" /></div>
+				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/cateys2016.jpg" /></div>
 			</div>
 			<div class="col-sm-3">
-				<div class="plogo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-notable-wine-list-award-2017-2018.jpg" /></div>
+				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-notable-wine-list-award-2017-2018.jpg" /></div>
 			</div>
 			<div class="col-sm-3">
-				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-award-for-Inspectors-Choice-2017-2018.jpg" /></div>
+				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-award-for-Inspectors-Choice-2017-2018.jpg" /></div>
 			</div>
 			<div class="col-sm-3">
-				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
+				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
 			</div>
 			<div class="col-sm-3">
-				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/c23fd12.jpg" /></div>
+				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/c23fd12.jpg" /></div>
 			</div>
 			<div class="col-sm-3">
-				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Winner-Sticker-Square.jpg" /></div>
+				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Winner-Sticker-Square.jpg" /></div>
 			</div>
 			
 		</div>
