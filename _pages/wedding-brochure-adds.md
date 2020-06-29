@@ -139,6 +139,9 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 			<div class="col-sm-3">
 				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Winner-Sticker-Square.jpg" /></div>
 			</div>
+			<div class="col-sm-3">
+				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/nwl2017.jpg" /></div>
+			</div>
 			
 		</div>
 	</div> 
