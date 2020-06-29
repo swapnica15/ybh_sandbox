@@ -85,33 +85,63 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 </div>
 <!--- Second Row Ends -->
 <div class="row adv-row1">
-<div class="col-md-6">
-<div class="yr-content-title"><h3>Award Winning Hotel &amp; Restaurent</h3></div>
-<div class="tripadvisor-content">We are driven by our joy in sharing our passion for luxury, fine dining, quality, comfort and the good old Yorkshire Dales with our guests. We take great pride in all the awards that we achieve, not only for ourselves, but also to celebrate and promote our wonderful county and encourage visitors from worldwide and Welcome them to Yorkshire, the Dales and Herriot Country!</div>
-<p style="text-align:center"><a href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf" class="button">View all our Awards</a></p>
-</div>
-<div class="col-md-6 caro-ads_img">
-<div class="row caro-ads ">
-<div class="col-sm-3">
-<div class="preview-cero logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/10/footer-logo1.png" /></div>
-</div>
-<div class="col-sm-3">
-<div class="preview-cero logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/10/footer-logo2.png" /></div>
-</div>
-<div class="col-sm-3">
-<div class="preview-cero logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/footer-logo4.png" /></div>
-</div>
-<div class="col-sm-3">
-<div class="preview-cero logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/10/footer-logo1.png" /></div>
-</div>
-<div class="col-sm-3">
-<div class="preview-cero logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/10/footer-logo2.png" /></div>
-</div>
-<div class="col-sm-3">
-<div class="preview-cero logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/footer-logo4.png" /></div>
-</div>
-</div>
-</div>
+	<div class="col-md-6">
+		<div class="yr-content-title">
+			<h3>Award Winning Hotel &amp; Restaurent</h3>
+		</div>
+		<div class="tripadvisor-content">We are driven by our joy in sharing our passion for luxury, fine dining, quality, comfort and the good old Yorkshire Dales with our guests. We take great pride in all the awards that we achieve, not only for ourselves, but also to celebrate and promote our wonderful county and encourage visitors from worldwide and Welcome them to Yorkshire, the Dales and Herriot Country!</div>
+		<p style="text-align:center"><a href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf" class="button">View all our Awards</a></p>
+	</div>
+	<div class="col-md-6 caro-ads_img">
+		<div class="row caro-ads ">
+			<div class="col-sm-3">
+				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/outstanding.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Notable-Wine-List17.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/2017777.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Ywinner-Yorebridge.png" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="plogo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybshr.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/aab2017.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/awa2017dfgd4.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/cateys2016.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="plogo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-notable-wine-list-award-2017-2018.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-award-for-Inspectors-Choice-2017-2018.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/c23fd12.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/nwl2017.jpg" /></div>
+			</div>
+			<div class="col-sm-3">
+				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Winner-Sticker-Square.jpg" /></div>
+			</div>
+			
+		</div>
+	</div>
 </div>
 <!--- Third Row Starts -->
 <div class="row yr-three yr-content yr-imgs third-row">
