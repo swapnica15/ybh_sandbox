@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2020-05-07 12:41:44
 ---
-<div class="yr-container-fluid">
-<!--- First Row Starts -->
+<div class="yr-container-fluid"><!--- First Row Starts -->
 <div class="row yr-two yr-imgs first-row">
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-2-min.jpg" alt="Chania" /></div>
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-10-min.jpg" alt="Chania" /></div>
@@ -85,67 +84,66 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 </div>
 <!--- Second Row Ends -->
 <div class="row adv-row1">
-	<div class="col-md-6">
-		<div class="yr-content-title">
-			<h3>Award Winning Hotel &amp; Restaurent</h3>
-		</div>
-		<div class="tripadvisor-content">We are driven by our joy in sharing our passion for luxury, fine dining, quality, comfort and the good old Yorkshire Dales with our guests. We take great pride in all the awards that we achieve, not only for ourselves, but also to celebrate and promote our wonderful county and encourage visitors from worldwide and Welcome them to Yorkshire, the Dales and Herriot Country!</div>
-		<p class="view-all-awards1"><a href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf" class="button">View all our Awards</a></p>
-	</div>
-	<div class="col-md-6 caro-ads_img">
-		<div class="row caro-ads ">
-			<div class="col-sm-3">
-				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/outstanding.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Notable-Wine-List17.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/2017777.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Ywinner-Yorebridge.png" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybshr.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/2016666.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/aab2017.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/awa2017dfgd4.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/cateys2016.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-notable-wine-list-award-2017-2018.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-award-for-Inspectors-Choice-2017-2018.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/c23fd12.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Winner-Sticker-Square.jpg" /></div>
-			</div>
-			<div class="col-sm-3">
-				<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/nwl2017.jpg" /></div>
-			</div>
-			
-		</div>
-	</div> 
-      <p class="view-all-awards2"><a href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf" class="button">View all our Awards</a></p>
+<div class="col-md-6">
+<div class="yr-content-title">
+<h3>Award Winning Hotel &amp; Restaurent</h3>
+</div>
+<div class="tripadvisor-content">We are driven by our joy in sharing our passion for luxury, fine dining, quality, comfort and the good old Yorkshire Dales with our guests. We take great pride in all the awards that we achieve, not only for ourselves, but also to celebrate and promote our wonderful county and encourage visitors from worldwide and Welcome them to Yorkshire, the Dales and Herriot Country!</div>
+<p class="view-all-awards1"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
+
+</div>
+<div class="col-md-6 caro-ads_img">
+<div class="row caro-ads ">
+<div class="col-sm-3">
+<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/outstanding.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Notable-Wine-List17.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/2017777.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Ywinner-Yorebridge.png" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybshr.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/2016666.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/aab2017.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/awa2017dfgd4.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/cateys2016.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-notable-wine-list-award-2017-2018.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-award-for-Inspectors-Choice-2017-2018.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/c23fd12.jpg" /></div>
+</div>
+<div class="col-sm-3">
+<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Winner-Sticker-Square.jpg" /></div>
+</div>
+
+</div>
+</div>
+<p class="view-all-awards2"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
+
 </div>
 <!--- Third Row Starts -->
 <div class="row yr-three yr-content yr-imgs third-row">
@@ -312,7 +310,9 @@ With it’s snow covered hills and
 </div>
 <div class="h-50"><img class="img-fluid w-100 h-100 pb-0" src="../brochure-images/Yorebridge-Weddings-28-min.jpg" /></div>
 </div>
-<div class="col-sm-3 yr-col-imgs"><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-27-min.jpg" alt="Chania" />
+<div class="col-sm-3 yr-col-imgs">
+
+<img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-27-min.jpg" alt="Chania" />
 <div class="yr-content-block w-100 h-50 mini-liner">
 <div class="yr-content-title">
 <h3 class="">New Year’s Eve</h3>
@@ -360,52 +360,57 @@ A perfect ending and a perfect beginning.
 </div>
 <!--- Seventh Row Ends -->
 <div class="row second-adv tripadvisor adv-row1">
-  <div class="col-sm-4 caro-ads_img one">
-     <div class="row caro-ads2 tripadvisor-dots">
-
-        <div class="col-sm-6">
-        <div class="preview-cero2 logo_2">
-        <img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" />
-        </div>
-        </div>
-        <div class="col-sm-6">
-        <div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
-        </div>
-        <div class="col-sm-6">
-            <div class="preview-cero2 logo_1">
-               <img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" />
-            </div>
-        </div>
-
-        <div class="col-sm-6">
-        <div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
-        </div>
-        <div class="col-sm-6">
-        <div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
-        </div>
-        <div class="col-sm-6">
-        <div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
-        </div>
+<div class="col-sm-4 caro-ads_img one">
+<div class="row caro-ads2 tripadvisor-dots">
+<div class="col-sm-6">
+<div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
 </div>
-		</div>
-		<div class="col-sm-4 trip-logo">
-<a target="_blank" href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html"><img class="img-fluid px-20 tripadvisor-logo" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/trip-adver-ratings.png" /></a>
+<div class="col-sm-6">
+<div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
 </div>
+<div class="col-sm-6">
+<div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
+</div>
+<div class="col-sm-6">
+<div class="preview-cero2 logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
+</div>
+<div class="col-sm-6">
+<div class="preview-cero2 logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
+</div>
+<div class="col-sm-6">
+<div class="preview-cero2 logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 trip-logo"><a href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html" target="_blank" rel="noopener"><img class="img-fluid px-20 tripadvisor-logo" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/trip-adver-ratings.png" /></a></div>
 <div class="col-sm-4 caro-ads_img two">
 <div class="row caro-ads1 tripadvisor-dots">
 <div class="col-sm-12">
-<div><img class="img-tripadvisor" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review_1_opt.png" /><h4 class="tripadvisor_rating">Perfect wedding day</h4><div class="tripadvisor_normal">Myself and husband fell in love with this hotel as soon as we visited. The service and attention to detail is impeccable and we soon decided this was our perfec<a target="_blank" href="https://www.tripadvisor.in/Profile/19hannah90?fid=45404865-19b7-451e-b9c6-61cce5794d16">...</a></div></div>
+<div>
+
+<img class="img-tripadvisor" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review_1_opt.png" />
+<h4 class="tripadvisor_rating">Perfect wedding day</h4>
+<div class="tripadvisor_normal">Myself and husband fell in love with this hotel as soon as we visited. The service and attention to detail is impeccable and we soon decided this was our perfec<a href="https://www.tripadvisor.in/Profile/19hannah90?fid=45404865-19b7-451e-b9c6-61cce5794d16" target="_blank" rel="noopener">...</a></div>
+</div>
 </div>
 <div class="col-sm-12">
-<div class=""><img class="img-tripadvisor" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review-2-opt.png" /><h4 class="tripadvisor_rating">Incredible New Year's Eve Wedding</h4><div class="tripadvisor_normal">When you are the father of the bride for your eldest daughter then you want to make it special. Emma and James announced their engagement in late 2018 and we sp<a target="_blank" 
-href="https://www.tripadvisor.in/Profile/5stewartr?fid=434efbe4-4eaf-4931-b259-e6f7fc7a51ad">...</a></div></div>
+<div class="">
+
+<img class="img-tripadvisor" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review-2-opt.png" />
+<h4 class="tripadvisor_rating">Incredible New Year's Eve Wedding</h4>
+<div class="tripadvisor_normal">When you are the father of the bride for your eldest daughter then you want to make it special. Emma and James announced their engagement in late 2018 and we sp<a href="https://www.tripadvisor.in/Profile/5stewartr?fid=434efbe4-4eaf-4931-b259-e6f7fc7a51ad" target="_blank" rel="noopener">...</a></div>
+</div>
 </div>
 <div class="col-sm-12">
-<div class=""><img class="img-tripadvisor" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review_3_opt.png" /><h4 class="tripadvisor_rating">Amazing hotel & wedding venue<a target="_blank" href="https://www.tripadvisor.in/Profile/landonsls?fid=c30afd7f-c427-4c8d-a176-db57458c9a51">...</a></h4><div class="tripadvisor_normal">Was fortunate enough to be a part of a wedding at Yorebridge House over New Year’s holiday 2019/20.We stayed three days at the hotel with the wedding happeni<a target="_blank" href="https://www.tripadvisor.in/Profile/landonsls?fid=c30afd7f-c427-4c8d-a176-db57458c9a51">...</a></div></div>
+<div class="">
+
+<img class="img-tripadvisor" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/review_3_opt.png" />
+<h4 class="tripadvisor_rating">Amazing hotel &amp; wedding venue<a href="https://www.tripadvisor.in/Profile/landonsls?fid=c30afd7f-c427-4c8d-a176-db57458c9a51" target="_blank" rel="noopener">...</a></h4>
+<div class="tripadvisor_normal">Was fortunate enough to be a part of a wedding at Yorebridge House over New Year’s holiday 2019/20.We stayed three days at the hotel with the wedding happeni<a href="https://www.tripadvisor.in/Profile/landonsls?fid=c30afd7f-c427-4c8d-a176-db57458c9a51" target="_blank" rel="noopener">...</a></div>
 </div>
 </div>
 </div>
-	
+</div>
 </div>
 <!--- Eighth Row Starts -->
 <div class="row yr-four yr-content yr-imgs eighth-row">
