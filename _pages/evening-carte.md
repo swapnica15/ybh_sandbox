@@ -25,7 +25,7 @@ Served 5.30-9pm
 <p><strong>White Onion Veloute | Marmite Butter &amp; Sourdough Bread</strong>
 
 <p><strong>Cured Scottish Salmon  </strong>|  Cucumber & Oscietra Caviar </p>
-<p>Champagne, Laurent-Perrier, Ultra Brut, £14</p>
+<p><span>Champagne, Laurent-Perrier, Ultra Brut, £14</span></p>
 
 <p><strong>62<sup>º </sup>Duck Egg </strong>| Ham Hock & English Peas </p>
 <p>Albarino, Pazos de Lusco, Rias Baixas, £10</p>
