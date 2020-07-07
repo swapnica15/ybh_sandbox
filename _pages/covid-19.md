@@ -9,34 +9,42 @@ permalink: >
 published: true
 post_date: 2020-06-10 17:58:47
 ---
-<div class="section-title section-title-followed-by-content covid-head"><h2>COVID-19 Update</h2>
+<div class="section-title section-title-followed-by-content covid-head">
+<h2>Covid-Secure Policies &amp; Procedures</h2>
 We are taking bookings from the 10<sup class="date-sup">th</sup> July onward with a relaxed cancellation policy.
 please see details below:
+
 </div>
-Whilst closed, we have been busy preparing for our reopening under new Covid Secure guidelines, whilst also thinking of lots of wonderful ways we can ensure our usual friendly, welcoming luxurious and comfortable customer experience. 
+We’ve spent all week planning and implementing our new covid-secure policies and procedures following the official guidance which was published on the 24th June.
 
-Although we can still promise you a wonderful stay at Yorebridge House, there will be a few changes in place to ensure the ongoing safety of our guests and staff. 
+Thank you so much for your patience, we are delighted to be sharing our reopening plans with you now:
 
-We are working on our plan based on the official Government guidelines published 24th June and this will be available so you can view all of the new policies and procedures we have put in place to ensure we are Covid-Secure. In the meantime, for your peace of mind, here is a shortlist of some of the changes we are making in the first few weeks from the opening:
+The hotel will reopen on Friday 10th July with some new COVID-secure policies and procedures to ensure the safety of both our guests and staff.
 
+We will continue to monitor the advice from PHE and the government to ensure these policies and procedures always remain relevant and up to date.
 
-Once we receive the official Government guidelines we will compile a full information document so you can see exactly what procedures have been put in place to ensure we are Covid Secure, but in the meantime, for your peace of mind, here is a shortlist of some of the changes we are making in the first few weeks from the opening:
+Our new covid-secure policies &amp; procedures include, but are not limited to:
 <ul class="bulet">
- 	<li>We will be offering a new, simple, fresh all-day menu using produce from our own Kitchen Garden as well as local producers and suppliers. Served as room Service, garden service as well as indoors following government guidelines.</li>
- 	<li>There will be new table layouts across the Restaurant, Bar and Master’s room to adhere to social distancing guidelines.</li>
- 	<li>Service tables will be provided to ensure staff can maintain a social distance whilst serving your food and drinks.</li>
- 	<li>New outdoor furniture including individual table heaters and garden fire pits are in place so that you can enjoy the garden in the summer evenings under the festoon lights and fairy-lit trees. Tables can be allocated to you for your entire stay for that extra peace of mind.</li>
- 	<li>Contactless check-in and check-out procedures will be in place to ensure social distancing – but don’t worry – we will still provide you with a welcome glass of bubbly!</li>
- 	<li>Continental room service breakfast with options to add Champagne or Prosecco if you have reasons to celebrate!</li>
- 	<li>There will be additional cleaning procedures carried across all departments including extensive sanitisation protocols.</li>
- 	<li>Sanitising products will be available throughout the hotel for guest use.</li>
- 	<li>Walk Menus will be available in your room which has been designed by the staff who have spent lockdown exploring the local area and will include their personal tips and advice for each walk. You can call reception to order your walk from the menu and a printed walk will be delivered outside your door!</li>
- 	<li>Hamper menus will also be available in your room for you to order to accompany the wonderful walks!</li></ul>
+ 	<li>Enhanced hotel-wide cleaning routines in-line with infection control guidance.</li>
+ 	<li>Hand sanitizing stations as well as gloves &amp; masks available for guest use on request.</li>
+ 	<li>Contactless, self-check-in &amp; check-out accompanied by our smiley team.</li>
+ 	<li>Disposable letters in place of hotel directories &amp; menu folders.</li>
+ 	<li>Removal of newspapers from communal areas (personal copies can be pre-ordered).</li>
+ 	<li>Reserved seating indoors &amp; outdoors for the duration of your stay for your peace of mind.</li>
+ 	<li>Team members serving food or beverages will wear face coverings where a 2m distance is not achievable for your safety &amp; comfort.</li>
+ 	<li>Dining areas have been rearranged to allow for safe 2m social distancing between guests.</li>
+ 	<li>Extended dinner service, staggering reservations for your safety and comfort.</li>
+ 	<li>Pre-booked table reservations for breakfast &amp; dinner will be strictly adhered to.</li>
+ 	<li>Increased room service offering &amp; availability for breakfast &amp; dinner– this must be pre-booked to allow us to place dining furniture in your room prior to your arrival.</li>
+ 	<li>Alfresco dining facilities are available including new outdoor heaters, fire pits &amp; comfy garden furniture.</li>
+ 	<li>Regrettably we are unable to accept non-resident bookings for the time being as we do not have the capacity whilst complying with 2m social distancing – if you would like to contact us on the day to check availability we can assess the capacity and possibly confirm your request.</li>
+</ul>
+We respectfully ask that you comply with our new COVID-secure policies and procedures to protect the health and well-being of other guests and staff.
 
-Now we have an official date to be able to open our doors and official guidelines from the Government on safety and restrictions we are now taking bookings from the 10th July onward.
+Similarly, if you are displaying any symptoms of coronavirus or have been in close contact for more than 15 minutes with anybody who has; a high temperature, a new/continuous cough or a loss/change to your sense of smell or taste; please do not travel to the hotel, self-isolate and call 111 for further advice.
 
-If you were booked in to stay with us earlier this year, we still have the details of your original booking and will do our utmost to get you re-booked in the near future!       
-
-We really look forward to welcoming you to Yorebridge House in the near future and giving you a wonderful Yorkshire welcome!!
-
-If you have booked a stay with us, please keep an eye out for correspondence from us detailing the new policies and procedures we have put in place to ensure we are Covid-Secure.
+Should there be <b>any</b> reason why you cannot make your reservation please contact us and we will do our utmost to transfer your deposit to a later date.
+<p style="text-align: center;">
+<a class="button bf_menu" href="https://sandbox.yorebridgehouse.co.uk/downloads/A-La-Carte-Menu-18.pdf">View our Covid-Secure Breakfast Menu</a> 
+<a class="button" href="https://sandbox.yorebridgehouse.co.uk/downloads/Tasting-Menu-18.pdf">View our Covid-Secure Light Bites Menu</a>
+<a class="button" href="https://sandbox.yorebridgehouse.co.uk/downloads/A-La-Carte-Menu-18.pdf">View our Covid-Secure Evening A la Carte</a></p>
