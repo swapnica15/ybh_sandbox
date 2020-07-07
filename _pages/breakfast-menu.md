@@ -11,8 +11,8 @@ post_date: 2020-07-07 12:15:00
 ---
 <div class="section-title section-title-followed-by-content">
 <p>Covid-Secure Sample Menus</p>
-<h2 class="covid-menu">Breakfast Menu</h2>
-<p class="covid-menu">Served 8-10am</p>
+<h2 class="covid-menu-h2">Breakfast Menu</h2>
+<p class="covid-menu-p">Served 8-10am</p>
 
 </div>
 <div style="width:80%; margin:auto">
