@@ -45,6 +45,6 @@ Similarly, if you are displaying any symptoms of coronavirus or have been in clo
 
 Should there be <b>any</b> reason why you cannot make your reservation please contact us and we will do our utmost to transfer your deposit to a later date.
 <p style="text-align: center;">
-<a class="button bf_menu" href="https://sandbox.yorebridgehouse.co.uk/downloads/A-La-Carte-Menu-18.pdf">View our Covid-Secure Breakfast Menu</a> 
-<a class="button lb_menu" href="https://sandbox.yorebridgehouse.co.uk/downloads/Tasting-Menu-18.pdf">View our Covid-Secure Light Bites Menu</a>
-<a class="button eac_menu" href="https://sandbox.yorebridgehouse.co.uk/downloads/A-La-Carte-Menu-18.pdf">View our Covid-Secure Evening A la Carte</a></p>
+<a class="button bf_menu" href="/breakfast-menu/">View our Covid-Secure Breakfast Menu</a> 
+<a class="button lb_menu" href="/light-bites/">View our Covid-Secure Light Bites Menu</a>
+<a class="button eac_menu" href="/evening-carte/">View our Covid-Secure Evening A la Carte</a></p>
