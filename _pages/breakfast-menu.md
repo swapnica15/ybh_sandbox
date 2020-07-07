@@ -13,16 +13,18 @@ post_date: 2020-07-07 12:15:00
 
 Covid-Secure Sample Menus
 <h2 class="covid-menu-h2">Breakfast Menu</h2>
-<p class="covid-menu-p">Served 8-10am</p>
+Served 8-10am
 
 </div>
-<div class="row-has-bottom-border"><div class="full-width-content-with-padding"><p style="text-align: center;"><strong>Taylors of Harrogate Tea </strong>
+<div>
+ <div class="row-has-bottom-border full-width-content-with-padding">
+  <p style="text-align: center;"><strong>Taylors of Harrogate Tea </strong>
 Yorkshire, Decaffeinated, Organic Peppermint, Earl Grey, Lemon &amp; Orange, Raspberry &amp; Blackberry, Green Tea or Chamomile</p>
-<p style="text-align: center;"><strong>Lontons, Darlington Coffee, Yorebridge House Blend</strong></p>
-<p style="text-align: center;"><strong>Orange, Apple or Grapefruit Juice</strong></p>
-<p style="text-align: center;"><strong>Still or Sparkling Water</strong></p>
-<p style="text-align: center;"><strong>Glass of Prosecco, £8</strong>
-<strong>Glass of Lauren-Perrier, La Cuvee, Champagne, £14</strong></p></div></div>
+  <p style="text-align: center;"><strong>Lontons, Darlington Coffee, Yorebridge House Blend</strong></p>
+  <p style="text-align: center;"><strong>Orange, Apple or Grapefruit Juice</strong></p>
+  <p style="text-align: center;"><strong>Still or Sparkling Water</strong></p>
+  <p style="text-align: center;"><strong>Glass of Prosecco, £8</strong>
+  <strong>Glass of Lauren-Perrier, La Cuvee, Champagne, £14</strong></p></div>
 <div class="row-has-bottom-border"><p style="text-align: center;"><strong>Continental</strong></p>
 <p style="text-align: center;">Toast - Local Jams &amp; Preserves
 Breakfast Cereal - Cornflakes or Rice Krispies
@@ -50,3 +52,5 @@ Hodgson fish is one of the best-known fishmongers on the East Coast, delivering 
 Alan Hodgson is personal friend and advocate of Yorebridge House!</p>
 <p style="text-align: center;"><strong>Wensleydale Creamery (Hawes)</strong>
 In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!</p>
+
+</div>
