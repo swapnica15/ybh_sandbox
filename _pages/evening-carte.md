@@ -21,6 +21,7 @@ Served 5.30-9pm
 <p style="text-align: center;">Please advise our staff of any food allergies or intolerance when placing your order, thank you.</p>
 <p style="text-align: center;">A 125ml wine suggestion is recommended for each course, or if you would prefer to make your own choice see our extensive wine list.</p>
 <p style="text-align: center;"><strong>White Onion Veloute | Marmite Butter &amp; Sourdough Bread</strong>
+<p style="text-align: center;">***********************</p>
 
 <p style="text-align: center;"><strong>Cured Scottish Salmon  </strong>|  Cucumber & Oscietra Caviar </p>
 <p style="text-align: center;">Champagne, Laurent-Perrier, Ultra Brut, £14</p>
