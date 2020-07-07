@@ -1,44 +1,48 @@
 ---
-ID: 3958
-post_title: Breakfast Menu
+ID: 3980
+post_title: Light Bites
 author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  http://sandbox.yorebridgehouse.co.uk/breakfast-menu/
+  http://sandbox.yorebridgehouse.co.uk/light-bites/
 published: true
-post_date: 2020-07-07 12:15:00
+post_date: 2020-07-07 14:25:59
 ---
 <div class="section-title section-title-followed-by-content">
 
 Covid-Secure Sample Menus
-<h2 class="covid-menu-h2">Breakfast Menu</h2>
-Served 8-10am
+<h2 class="covid-menu-h2">Light Bites &amp; Afternoon Tea Menu</h2>
+Served 12-3pm
 
 </div>
 <div>
- <div class="row-has-bottom-border full-width-content-with-padding">
-  <p style="text-align: center;"><strong>Taylors of Harrogate Tea </strong>
+<div class="row-has-bottom-border full-width-content-with-padding">
+<p style="text-align: center;"><strong>Taylors of Harrogate Tea </strong>
 Yorkshire, Decaffeinated, Organic Peppermint, Earl Grey, Lemon &amp; Orange, Raspberry &amp; Blackberry, Green Tea or Chamomile</p>
-  <p style="text-align: center;"><strong>Lontons, Darlington Coffee, Yorebridge House Blend</strong></p>
-  <p style="text-align: center;"><strong>Orange, Apple or Grapefruit Juice</strong></p>
-  <p style="text-align: center;"><strong>Still or Sparkling Water</strong></p>
-  <p style="text-align: center;"><strong>Glass of Prosecco, £8</strong>
-  <strong>Glass of Lauren-Perrier, La Cuvee, Champagne, £14</strong></p></div>
-<div class="row-has-bottom-border full-width-content-with-padding"><p style="text-align: center;"><strong>Continental</strong></p>
-<p style="text-align: center;">Toast - Local Jams &amp; Preserves
-Breakfast Cereal - Cornflakes or Rice Krispies
-Croissants or Danish Pastries
-Fresh Fruit Salad
-Yockenthwaite Farm Granola
-Homemade Bircher Muesli
-Greek Yoghurt</p>
-<p style="text-align: center;"><strong>From the Kitchen</strong></p>
-<p style="text-align: center;"><strong>Yorebridge Breakfast</strong>
-Cumberland Sausage, Thick Cut - Smoked Back Bacon &amp; Black Pudding from Hammonds Butchers, Flat Cap Mushroom, Vine Tomato &amp; Wensleydale Eggs of Your Choice.</p>
-<p style="text-align: center;"><strong>Smoked Salmon &amp; Scrambled Eggs</strong></p>
-<p style="text-align: center;"><strong>Eggs Benedict </strong></p></div>
-<div class="full-width-content-with-padding"><p style="text-align: center;"><strong>Suppliers</strong></p>
+<p style="text-align: center;"><strong>Lontons, Darlington Coffee, Yorebridge House Blend</strong></p>
+<p style="text-align: center;"><strong>Sandwiches £7.50</strong></p>
+<p style="text-align: center;">Served on your choice of White or Granary Sliced Bloomer Bread &amp; Kettle Chips</p>
+<p style="text-align: center;"><strong>Free Range Egg &amp; Watercress
+Smoked Salmon &amp;Cucumber
+Yorkshire Ham &amp; Wholegrain Mustard
+Wensleydale Cheese &amp; Tomato Chutney</strong></p>
+<p style="text-align: center;"><strong>Cream Tea £7.50</strong></p>
+<p style="text-align: center;">Served with your choice of Tea or Coffee
+Fruit Scones, Clotted Cream &amp; Strawberry Jam</p>
+<p style="text-align: center;"><strong>Afternoon Tea £19.50pp</strong></p>
+<p style="text-align: center;">Served with your choice of Tea or Coffee
+Selection of Finger Sandwiches
+Selection of Cakes &amp; Treats
+Fruit Scones, Clotted Cream &amp; Strawberry Jam</p>
+<p style="text-align: center;"><strong>Sparkling Afternoon Tea £31.50pp</strong></p>
+<p style="text-align: center;">Our Full Afternoon Tea Selection plus a Glass of Laurent-Perrier Champagne</p>
+<p style="text-align: center;"><strong>‘G &amp; Tea’ £25.50pp</strong></p>
+<p style="text-align: center;">Our Full Afternoon Tea Selection plus a Refreshing Local Gin &amp; Tonic</p>
+
+</div>
+<div class="full-width-content-with-padding">
+<p style="text-align: center;"><strong>Suppliers</strong></p>
 There is an abundance of great produce all around us in North Yorkshire and we are proud to champion them, following the easing of the lockdown we have worked tirelessly with our local suppliers to ensure maximum compliance with COVID-secure policies and procedures.
 <p style="text-align: center;"><strong>Hammonds Butchers (Bainbridge)</strong>
 Situated a couple of minutes from Yorebridge House, this family run butchers has supplied
@@ -52,5 +56,6 @@ Hodgson fish is one of the best-known fishmongers on the East Coast, delivering 
 Alan Hodgson is personal friend and advocate of Yorebridge House!</p>
 <p style="text-align: center;"><strong>Wensleydale Creamery (Hawes)</strong>
 In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!</p>
+
 </div>
 </div>
