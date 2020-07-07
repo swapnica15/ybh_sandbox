@@ -18,15 +18,15 @@ Served 8-10am
 </div>
 <div>
  <div class="row-has-bottom-border full-width-content-with-padding text-center">
-  <p><strong>Taylors of Harrogate Tea </strong>
+  <p><span class="menu-strong">Taylors of Harrogate Tea </span>
 Yorkshire, Decaffeinated, Organic Peppermint, Earl Grey, Lemon &amp; Orange, Raspberry &amp; Blackberry, Green Tea or Chamomile</p>
-  <p><strong>Lontons, Darlington Coffee, Yorebridge House Blend</strong></p>
-  <p><strong>Orange, Apple or Grapefruit Juice</strong></p>
-  <p><strong>Still or Sparkling Water</strong></p>
-  <p><strong>Glass of Prosecco, £8</strong>
-  <strong>Glass of Lauren-Perrier, La Cuvee, Champagne, £14</strong></p></div>
+  <p><span class="menu-strong">Lontons, Darlington Coffee, Yorebridge House Blend</span></p>
+  <p><span class="menu-strong">Orange, Apple or Grapefruit Juice</span></p>
+  <p><span class="menu-strong">Still or Sparkling Water</span></p>
+  <p><span class="menu-strong">Glass of Prosecco, £8</span>
+  <span class="menu-strong">Glass of Lauren-Perrier, La Cuvee, Champagne, £14</span></p></div>
 
-<div class="row-has-bottom-border full-width-content-with-padding text-center"><p><strong>Continental</strong></p>
+<div class="row-has-bottom-border full-width-content-with-padding text-center"><p><span class="menu-strong">Continental</span></p>
 <p style="text-align: center;">Toast - Local Jams &amp; Preserves
 Breakfast Cereal - Cornflakes or Rice Krispies
 Croissants or Danish Pastries
@@ -34,24 +34,24 @@ Fresh Fruit Salad
 Yockenthwaite Farm Granola
 Homemade Bircher Muesli
 Greek Yoghurt</p>
-<p><strong>From the Kitchen</strong></p>
-<p><strong>Yorebridge Breakfast</strong>
+<p><span class="menu-strong">From the Kitchen</span></p>
+<p><span class="menu-strong">Yorebridge Breakfast</span>
 Cumberland Sausage, Thick Cut - Smoked Back Bacon &amp; Black Pudding from Hammonds Butchers, Flat Cap Mushroom, Vine Tomato &amp; Wensleydale Eggs of Your Choice.</p>
-<p><strong>Smoked Salmon &amp; Scrambled Eggs</strong></p>
-<p><strong>Eggs Benedict </strong></p></div>
-<div class="full-width-content-with-padding text-center"><p style="text-align: center;"><strong>Suppliers</strong></p>
+<p><span class="menu-strong">Smoked Salmon &amp; Scrambled Eggs</span></p>
+<p><span class="menu-strong">Eggs Benedict </span></p></div>
+<div class="full-width-content-with-padding text-center"><p style="text-align: center;"><span class="menu-strong">Suppliers</span></p>
 There is an abundance of great produce all around us in North Yorkshire and we are proud to champion them, following the easing of the lockdown we have worked tirelessly with our local suppliers to ensure maximum compliance with COVID-secure policies and procedures.
-<p><strong>Hammonds Butchers (Bainbridge)</strong>
+<p><span class="menu-strong">Hammonds Butchers (Bainbridge)</span>
 Situated a couple of minutes from Yorebridge House, this family run butchers has supplied
 Meat to us since the first day we opened in 2008.
 Head chef Dan and ‘Gadge’ have worked together for the last 7 years to bring the best quality, local meat to the table.</p>
-<p><strong>Wellocks Fruit And Veg (Lomeshaye)</strong>
+<p><span class="menu-strong">Wellocks Fruit And Veg (Lomeshaye)</span>
 Wellocks supplies every michelin-starred restaurant in the North, as well as many other high-quality restaurants.
 Dan has worked with Pasque since his Rockliffe Hall days 10 years ago, the pair strive to promote the finest ingredients from small UK suppliers to achieve a luxury menu!</p>
-<p><strong>Hodgson Fish (Hartlepool)</strong>
+<p><span class="menu-strong">Hodgson Fish (Hartlepool)</span>
 Hodgson fish is one of the best-known fishmongers on the East Coast, delivering to top hotels and restaurants throughout the North of England.
 Alan Hodgson is personal friend and advocate of Yorebridge House!</p>
-<p><strong>Wensleydale Creamery (Hawes)</strong>
+<p><span class="menu-strong">Wensleydale Creamery (Hawes)</span>
 In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!</p>
 </div>
 </div>
