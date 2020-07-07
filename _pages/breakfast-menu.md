@@ -16,7 +16,6 @@ Covid-Secure Sample Menus
 <p class="covid-menu-p">Served 8-10am</p>
 
 </div>
-<div style="width: 80%; margin: auto;">
 <div class="row-has-bottom-border"><div class="full-width-content-with-padding"><p style="text-align: center;"><strong>Taylors of Harrogate Tea </strong>
 Yorkshire, Decaffeinated, Organic Peppermint, Earl Grey, Lemon &amp; Orange, Raspberry &amp; Blackberry, Green Tea or Chamomile</p>
 <p style="text-align: center;"><strong>Lontons, Darlington Coffee, Yorebridge House Blend</strong></p>
@@ -51,5 +50,3 @@ Hodgson fish is one of the best-known fishmongers on the East Coast, delivering 
 Alan Hodgson is personal friend and advocate of Yorebridge House!</p>
 <p style="text-align: center;"><strong>Wensleydale Creamery (Hawes)</strong>
 In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!</p>
-
-</div>
