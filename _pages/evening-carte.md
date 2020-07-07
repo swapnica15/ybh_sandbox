@@ -24,40 +24,40 @@ Served 5.30-9pm
 <div class="row-has-bottom-border full-width-content-with-padding text-center">
 <p><strong>White Onion Veloute | Marmite Butter &amp; Sourdough Bread</strong>
 
-<p><strong>Cured Scottish Salmon  </strong>|  Cucumber & Oscietra Caviar </p>
+<p class="menu-head"><strong>Cured Scottish Salmon  </strong>|  Cucumber & Oscietra Caviar </p>
 <p class="sub-menu">Champagne, Laurent-Perrier, Ultra Brut, £14</p>
 
-<p><strong>62<sup>º </sup>Duck Egg </strong>| Ham Hock & English Peas </p>
-<p>Albarino, Pazos de Lusco, Rias Baixas, £10</p>
+<p class="menu-head"><strong>62<sup>º </sup>Duck Egg </strong>| Ham Hock & English Peas </p>
+<p class="sub-menu">Albarino, Pazos de Lusco, Rias Baixas, £10</p>
 
-<p><strong>Caramelized Black Fig </strong>| Yellisons Goat’s Cheese & Hazelnuts (V)</p>
-<p>Aga, Tinto, Navarra, £7</p>
+<p class="menu-head"><strong>Caramelized Black Fig </strong>| Yellisons Goat’s Cheese & Hazelnuts (V)</p>
+<p class="sub-menu">Aga, Tinto, Navarra, £7</p>
 
 
-<p><strong>Gigha Halibut </strong>| Chervil & Ratatouille</p>
-<p>Chardonnay, Morning Fog, Wente, California, £10</p>
+<p class="menu-head"><strong>Gigha Halibut </strong>| Chervil & Ratatouille</p>
+<p class="sub-menu">Chardonnay, Morning Fog, Wente, California, £10</p>
 
-<p><strong>Wensleydale Lamb Rump </strong>| Chorizo & Jersey Royals</p>
-<p>Nero D’Avola, Zensa, Sicilly, £12</p>
+<p class="menu-head"><strong>Wensleydale Lamb Rump </strong>| Chorizo & Jersey Royals</p>
+<p class="sub-menu">Nero D’Avola, Zensa, Sicilly, £12</p>
 
-<p><strong>Nidderdale Chicken </strong>| Ham Hock & English Peas </p>
-<p>Pessac-Leognan Blanc, Château Rouillac, £20</p>
+<p class="menu-head"><strong>Nidderdale Chicken </strong>| Ham Hock & English Peas </p>
+<p class="sub-menu">Pessac-Leognan Blanc, Château Rouillac, £20</p>
 
-<p><strong>Potato Gnocchi </strong>| Kidderton Ash & King Oyster Mushrooms (V)</p>
-<p>Vidiano, Idai, Dafnes, Crete, £10</p>
+<p class="menu-head"><strong>Potato Gnocchi </strong>| Kidderton Ash & King Oyster Mushrooms (V)</p>
+<p class="sub-menu">Vidiano, Idai, Dafnes, Crete, £10</p>
 </div>
 
 <div class="row-has-bottom-border full-width-content-with-padding text-center">
 <p><strong>Yoghurt Sorbet  |  Lemon & Elderflower </strong></p>
 
-<p><strong>72% Chocolate </strong>| West Country Cherries & Honeycomb </p>
-<p>Red Muscadel, Nuy, Worcester, South Africa £10</p>
+<p class="menu-head"><strong>72% Chocolate </strong>| West Country Cherries & Honeycomb </p>
+<p class="sub-menu">Red Muscadel, Nuy, Worcester, South Africa £10</p>
 
-<p><strong>Vanilla Cheesecake </strong>| Strawberries & Meringue </p>
-<p>Chateau Petit Vedrines, Sauternes, France, £14</p>
+<p class="menu-head"><strong>Vanilla Cheesecake </strong>| Strawberries & Meringue </p>
+<p class="sub-menu">Chateau Petit Vedrines, Sauternes, France, £14</p>
 
-<p><strong>English Cheese </strong>| Yorkshire Chutney & Biscuits </p>
-<p>Quinta do Noval 10 Year old Tawny Port, £10</p>
+<p class="menu-head"><strong>English Cheese </strong>| Yorkshire Chutney & Biscuits </p>
+<p class="sub-menu">Quinta do Noval 10 Year old Tawny Port, £10</p>
 
 <p>An optional 10% service charge will be added to your bill for the hard work & dedication of our staff, if you would prefer to decline from this could you please inform your waiter.</p>
 </div>
