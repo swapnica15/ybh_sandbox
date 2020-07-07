@@ -25,7 +25,7 @@ Yorkshire, Decaffeinated, Organic Peppermint, Earl Grey, Lemon &amp; Orange, Ras
   <p style="text-align: center;"><strong>Still or Sparkling Water</strong></p>
   <p style="text-align: center;"><strong>Glass of Prosecco, £8</strong>
   <strong>Glass of Lauren-Perrier, La Cuvee, Champagne, £14</strong></p></div>
-<div class="row-has-bottom-border"><p style="text-align: center;"><strong>Continental</strong></p>
+<div class="row-has-bottom-border full-width-content-with-padding"><p style="text-align: center;"><strong>Continental</strong></p>
 <p style="text-align: center;">Toast - Local Jams &amp; Preserves
 Breakfast Cereal - Cornflakes or Rice Krispies
 Croissants or Danish Pastries
@@ -38,7 +38,7 @@ Greek Yoghurt</p>
 Cumberland Sausage, Thick Cut - Smoked Back Bacon &amp; Black Pudding from Hammonds Butchers, Flat Cap Mushroom, Vine Tomato &amp; Wensleydale Eggs of Your Choice.</p>
 <p style="text-align: center;"><strong>Smoked Salmon &amp; Scrambled Eggs</strong></p>
 <p style="text-align: center;"><strong>Eggs Benedict </strong></p></div>
-<p style="text-align: center;"><strong>Suppliers</strong></p>
+<div class="full-width-content-with-padding"><p style="text-align: center;"><strong>Suppliers</strong></p>
 There is an abundance of great produce all around us in North Yorkshire and we are proud to champion them, following the easing of the lockdown we have worked tirelessly with our local suppliers to ensure maximum compliance with COVID-secure policies and procedures.
 <p style="text-align: center;"><strong>Hammonds Butchers (Bainbridge)</strong>
 Situated a couple of minutes from Yorebridge House, this family run butchers has supplied
@@ -52,5 +52,5 @@ Hodgson fish is one of the best-known fishmongers on the East Coast, delivering 
 Alan Hodgson is personal friend and advocate of Yorebridge House!</p>
 <p style="text-align: center;"><strong>Wensleydale Creamery (Hawes)</strong>
 In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!</p>
-
+</div>
 </div>
