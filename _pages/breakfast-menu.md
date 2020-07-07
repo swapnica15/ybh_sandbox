@@ -17,13 +17,13 @@ Covid-Secure Sample Menus
 
 </div>
 <div style="width: 80%; margin: auto;">
-<div class="row-has-bottom-border"><p style="text-align: center;"><strong>Taylors of Harrogate Tea </strong>
+<div class="row-has-bottom-border"><div class="full-width-content-with-padding"><p style="text-align: center;"><strong>Taylors of Harrogate Tea </strong>
 Yorkshire, Decaffeinated, Organic Peppermint, Earl Grey, Lemon &amp; Orange, Raspberry &amp; Blackberry, Green Tea or Chamomile</p>
 <p style="text-align: center;"><strong>Lontons, Darlington Coffee, Yorebridge House Blend</strong></p>
 <p style="text-align: center;"><strong>Orange, Apple or Grapefruit Juice</strong></p>
 <p style="text-align: center;"><strong>Still or Sparkling Water</strong></p>
 <p style="text-align: center;"><strong>Glass of Prosecco, £8</strong>
-<strong>Glass of Lauren-Perrier, La Cuvee, Champagne, £14</strong></p></div>
+<strong>Glass of Lauren-Perrier, La Cuvee, Champagne, £14</strong></p></div></div>
 <div class="row-has-bottom-border"><p style="text-align: center;"><strong>Continental</strong></p>
 <p style="text-align: center;">Toast - Local Jams &amp; Preserves
 Breakfast Cereal - Cornflakes or Rice Krispies
