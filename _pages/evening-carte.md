@@ -63,6 +63,7 @@ Served 5.30-9pm
 <div class="full-width-content-with-padding">
 <p style="text-align: center;"><strong>Suppliers</strong></p>
 There is an abundance of great produce all around us in North Yorkshire and we are proud to champion them, following the easing of the lockdown we have worked tirelessly with our local suppliers to ensure maximum compliance with COVID-secure policies and procedures.
+
 In 2017 we launced our kitchen garden which now supplies vegetables and fresh fruit for your menu as well as cresses and herbs to garnish your cocktails. The garden is tended to by our team of chefs and has provided a welcome respite from the lockdown over the last 14 weeks!
 <p style="text-align: center;"><strong>Hammonds Butchers (Bainbridge)</strong>
 Situated a couple of minutes from Yorebridge House, this family run butchers has supplied
@@ -75,7 +76,8 @@ Dan has worked with Pasque since his Rockliffe Hall days 10 years ago, the pair 
 Hodgson fish is one of the best-known fishmongers on the East Coast, delivering to top hotels and restaurants throughout the North of England.
 Alan Hodgson is personal friend and advocate of Yorebridge House!</p>
 <p style="text-align: center;"><strong>Wensleydale Creamery (Hawes)</strong>
-In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!</p>
-You can go and visit the Wensleydale Creamery Visitor Centre between 10am & 4pm Monday-Saturday, watch all of the cheeses being made and purchase a slice of Wensleydale to take home with you!
+In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!
+
+You can go and visit the Wensleydale Creamery Visitor Centre between 10am & 4pm Monday-Saturday, watch all of the cheeses being made and purchase a slice of Wensleydale to take home with you!</p>
 </div>
 </div>
