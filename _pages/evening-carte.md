@@ -75,7 +75,7 @@ Head chef Dan and ‘Gadge’ have worked together for the last 7 years to bring
 <p><span class="menu-strong">Wellocks Fruit And Veg (Lomeshaye)</span>
 Wellocks supplies every michelin-starred restaurant in the North, as well as many other high-quality restaurants.
 Dan has worked with Pasque since his Rockliffe Hall days 10 years ago, the pair strive to promote the finest ingredients from small UK suppliers to achieve a luxury menu!</p>
-<p style="text-align: center;"><strong>Hodgson Fish (Hartlepool)</span>
+<p><span class="menu-strong">Hodgson Fish (Hartlepool)</span>
 Hodgson fish is one of the best-known fishmongers on the East Coast, delivering to top hotels and restaurants throughout the North of England.
 Alan Hodgson is personal friend and advocate of Yorebridge House!</p>
 
