@@ -23,8 +23,8 @@ Served 8-10am
   <p><span class="menu-strong">Lontons, Darlington Coffee, Yorebridge House Blend</span></p>
   <p><span class="menu-strong">Orange, Apple or Grapefruit Juice</span></p>
   <p><span class="menu-strong">Still or Sparkling Water</span></p>
-  <p><span class="menu-strong">Glass of Prosecco, £8</span>
-  <span class="menu-strong">Glass of Lauren-Perrier, La Cuvee, Champagne, £14</span></p></div>
+  <p><span class="menu-strong">Glass of Prosecco, £8</span></p>
+  <p><span class="menu-strong">Glass of Lauren-Perrier, La Cuvee, Champagne, £14</span></p></div>
 
 <div class="row-has-bottom-border full-width-content-with-padding text-center"><p><span class="menu-strong">Continental</span></p>
 <p style="text-align: center;">Toast - Local Jams &amp; Preserves
