@@ -18,8 +18,8 @@ Served 8-10am
 </div>
 <div>
  <div class="row-has-bottom-border full-width-content-with-padding text-center">
-  <p><span class="menu-strong">Taylors of Harrogate Tea </span>
-Yorkshire, Decaffeinated, Organic Peppermint, Earl Grey, Lemon &amp; Orange, Raspberry &amp; Blackberry, Green Tea or Chamomile</p>
+<p class="menu-head"><span class="menu-strong">Taylors of Harrogate Tea </span>
+<p class="sub-menu">Yorkshire, Decaffeinated, Organic Peppermint, Earl Grey, Lemon &amp; Orange, Raspberry &amp; Blackberry, Green Tea or Chamomile</p>
   <p><span class="menu-strong">Lontons, Darlington Coffee, Yorebridge House Blend</span></p>
   <p><span class="menu-strong">Orange, Apple or Grapefruit Juice</span></p>
   <p><span class="menu-strong">Still or Sparkling Water</span></p>
@@ -35,8 +35,8 @@ Yockenthwaite Farm Granola
 Homemade Bircher Muesli
 Greek Yoghurt</p>
 <p><span class="menu-strong">From the Kitchen</span></p>
-<p><span class="menu-strong">Yorebridge Breakfast</span>
-Cumberland Sausage, Thick Cut - Smoked Back Bacon &amp; Black Pudding from Hammonds Butchers, Flat Cap Mushroom, Vine Tomato &amp; Wensleydale Eggs of Your Choice.</p>
+<p class="menu-head"><span class="menu-strong">Yorebridge Breakfast</span>
+<p class="sub-menu">Cumberland Sausage, Thick Cut - Smoked Back Bacon &amp; Black Pudding from Hammonds Butchers, Flat Cap Mushroom, Vine Tomato &amp; Wensleydale Eggs of Your Choice.</p>
 <p><span class="menu-strong">Smoked Salmon &amp; Scrambled Eggs</span></p>
 <p><span class="menu-strong">Eggs Benedict </span></p></div>
 <div class="full-width-content-with-padding text-center"><p style="text-align: center;"><span class="menu-strong">Suppliers</span></p>
