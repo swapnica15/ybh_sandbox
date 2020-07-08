@@ -26,7 +26,7 @@ Served 12-3pm
 <div class="row-has-bottom-border full-width-content-with-padding text-center">
 <p class="menu-head"><span class="menu-strong">Sandwiches £7.50</span></p>
 
-Served on your choice of White or Granary Sliced Bloomer Bread &amp; Kettle Chips
+<p class="sub-menu">Served on your choice of White or Granary Sliced Bloomer Bread &amp; Kettle Chips</p>
 
 <p class="menu-head"><span class="menu-strong">Free Range Egg &amp; Watercress
 Smoked Salmon &amp;Cucumber
