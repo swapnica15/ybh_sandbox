@@ -22,8 +22,8 @@ Served 12-3pm
 <p class="menu-head"><span class="menu-strong">Taylors of Harrogate Tea </span></p>
 <p class="sub-menu">Yorkshire, Decaffeinated, Organic Peppermint, Earl Grey, Lemon &amp; Orange, Raspberry &amp; Blackberry, Green Tea or Chamomile</p>
 
-<p class="menu-head"><span class="menu-strong">Lontons, Darlington Coffee, Yorebridge House Blend</span></p>
-
+<p class="menu-head"><span class="menu-strong">Lontons, Darlington Coffee, Yorebridge House Blend</span></p></div>
+<div class="row-has-bottom-border full-width-content-with-padding text-center">
 <p class="menu-head"><span class="menu-strong">Sandwiches £7.50</span></p>
 
 Served on your choice of White or Granary Sliced Bloomer Bread &amp; Kettle Chips
@@ -31,8 +31,8 @@ Served on your choice of White or Granary Sliced Bloomer Bread &amp; Kettle Chip
 <p class="menu-head"><span class="menu-strong">Free Range Egg &amp; Watercress
 Smoked Salmon &amp;Cucumber
 Yorkshire Ham &amp; Wholegrain Mustard
-Wensleydale Cheese &amp; Tomato Chutney</span></p>
-
+Wensleydale Cheese &amp; Tomato Chutney</span></p></div>
+<div class="row-has-bottom-border full-width-content-with-padding text-center">
 <p class="menu-head"><span class="menu-strong">Cream Tea £7.50</span></p>
 
 Served with your choice of Tea or Coffee
