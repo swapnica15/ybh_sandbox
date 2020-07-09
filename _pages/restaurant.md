@@ -10,8 +10,6 @@ published: true
 post_date: 2018-10-11 14:44:42
 ---
 
-
-<?php if( $post->ID == 101){ ?>
 <!-- Covid-19 restaurent Pop-Up starts from Here -->
 <div class="modal fade in covid newsletter" id="myNewsletter" role="dialog">
 	<div class="modal-dialog modal-dialog-centered">
@@ -38,7 +36,7 @@ post_date: 2018-10-11 14:44:42
 </div> 
 
 <!-- Covid-19 Restaurent Pop-Up ends from Here -->
-<?php } ?>
+
 <div class="section-title section-title-followed-by-content">
 
 Using superb quality local produce
