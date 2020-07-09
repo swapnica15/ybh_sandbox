@@ -10,33 +10,6 @@ published: true
 post_date: 2018-10-11 14:44:42
 ---
 
-<!-- Covid-19 restaurent Pop-Up starts from Here -->
-<div class="modal fade in covid newsletter" id="myNewsletter" role="dialog">
-	<div class="modal-dialog modal-dialog-centered">
-		<div class="modal-content full_text menu">
-				<button type="button" class="close" onclick="this.parentNode.parentNode.parentNode.style.display = 'none'">×</button> 
-			<div class="modal-body">
-				<div class="modal-head">
-				<div class="row modl-logo">
-					<img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-logo-min.png" class="m-auto">
-				</div>
-				</div>
-				<div class="col-md-12 layout covid">
-				   <div class="row">
-						<div class="col-md-12 content">
-							<p>Regrettably we are unable to accept non-resident bookings for the time being as we do not have the capacity whilst complying with 2m social distancing – if you would like to contact us on the day to check availability we can assess the capacity and possibly confirm your request.</p>
-
-<p>We will not be offering our usual Sunday Lunch menu for the time being. Please refer to our sample menus for up to date information.</p>
-						</div>				
-				   </div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div> 
-
-<!-- Covid-19 Restaurent Pop-Up ends from Here -->
-
 <div class="section-title section-title-followed-by-content">
 
 Using superb quality local produce
