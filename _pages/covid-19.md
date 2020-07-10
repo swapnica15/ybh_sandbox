@@ -41,7 +41,7 @@ We respectfully ask that you comply with our new COVID-secure policies and proce
 Similarly, if you are displaying any symptoms of coronavirus or have been in close contact for more than 15 minutes with anybody who has; a high temperature, a new/continuous cough or a loss/change to your sense of smell or taste; please do not travel to the hotel, self-isolate and call 111 for further advice.
 
 Should there be <b>any</b> reason why you cannot make your reservation please contact us and we will do our utmost to transfer your deposit to a later date.
-<p style="text-align: center;">
+<div id="new-menu"><p style="text-align: center;">
 <a class="button bf_menu" href="/breakfast-menu/">View our Covid-Secure Breakfast Menu</a> 
 <a class="button lb_menu" href="/light-bites/">View our Covid-Secure Light Bites Menu</a>
-<a class="button eac_menu" href="/evening-carte/">View our Covid-Secure Evening A la Carte</a></p>
+<a class="button eac_menu" href="/evening-carte/">View our Covid-Secure Evening A la Carte</a></p></div>
