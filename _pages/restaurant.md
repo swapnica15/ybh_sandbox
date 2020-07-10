@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-10-11 14:44:42
 ---
-
 <div class="section-title section-title-followed-by-content">
 
 Using superb quality local produce
