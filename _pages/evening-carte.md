@@ -40,7 +40,7 @@ Served 5.30-9pm
 <p class="menu-head"><span class="menu-strong">Wensleydale Lamb Rump </span>| Chorizo & Jersey Royals</p>
 <p class="sub-menu">Nero D’Avola, Zensa, Sicilly, £12</p>
 
-<p class="menu-head"><span class="menu-strong">Nidderdale Chicken </span>| Ham Hock & English Peas </p>
+<p class="menu-head"><span class="menu-strong">Nidderdale Chicken </span>| Brasicas & Pine Nuts </p>
 <p class="sub-menu">Pessac-Leognan Blanc, Château Rouillac, £20</p>
 
 <p class="menu-head"><span class="menu-strong">Potato Gnocchi </span>| Kidderton Ash & King Oyster Mushrooms (V)</p>
