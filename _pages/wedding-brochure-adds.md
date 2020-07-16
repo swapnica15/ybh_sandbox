@@ -10,13 +10,13 @@ published: true
 post_date: 2020-05-07 12:41:44
 ---
 <div class="yr-container-fluid"><!--- First Row Starts -->
-<div class="row yr-two yr-imgs first-row">
+<div class="row row-height yr-two yr-imgs first-row">
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-2-min.jpg" alt="Chania" /></div>
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-10-min.jpg" alt="Chania" /></div>
 </div>
 <!--- First Row Ends -->
 <!--- Second Row Starts -->
-<div class="row yr-four yr-content yr-imgs second-row">
+<div class="row row-height yr-four yr-content yr-imgs second-row">
 <div class="col-sm-3">
 <div class="yr-content-block w-100 h-100 two-liner">
 <div class="yr-content-title">
@@ -83,7 +83,8 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 <div class="col-sm-3 yr-col-imgs"><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-5-min.jpg" alt="Chania" /><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-6-min.jpg" alt="Chania" /></div>
 </div>
 <!--- Second Row Ends -->
-<div class="row adv-row1">
+<!--- First Add Row Starts -->
+<div class="row row-add-height adv-row1">
 <div class="col-md-6">
 <div class="yr-content-title">
 <h3>Award Winning Hotel &amp; Restaurent</h3>
@@ -145,8 +146,9 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 <p class="view-all-awards2"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
 
 </div>
+<!--- First Add Row Ends -->
 <!--- Third Row Starts -->
-<div class="row yr-three yr-content yr-imgs third-row">
+<div class="row row-height yr-three yr-content yr-imgs third-row">
 <div class="col-sm-3"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-8-min.jpg" alt="Chania" /></div>
 <div class="col-sm-3"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-9-min.jpg" alt="Chania" /></div>
 <div class="col-sm-6">
@@ -175,13 +177,13 @@ Voted the most romantic hotel in the UK, we pride ourselves on creating the most
 </div>
 <!--- Third Row Ends -->
 <!--- Fourth Row Starts -->
-<div class="row yr-two yr-imgs fourth-row">
+<div class="row row-height yr-two yr-imgs fourth-row">
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-17-min.jpg" alt="Chania" /></div>
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-18-min.jpg" alt="Chania" /></div>
 </div>
 <!--- Fourth Row Ends -->
 <!--- Fifth Row Starts -->
-<div class="row yr-three yr-content yr-imgs fifth-row">
+<div class="row row-height yr-three yr-content yr-imgs fifth-row">
 <div class="col-sm-3">
 <div class="yr-content-block w-100 h-100 one-liner">
 <div class="yr-content-title">
@@ -228,7 +230,7 @@ With full use of the House as the marquee your guests can enjoy the
 </div>
 <!--- Fifth Row Ends -->
 <!--- Sixth Row Starts -->
-<div class="row yr-three yr-imgs sixth-row">
+<div class="row row-height yr-three yr-imgs sixth-row">
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-24-min.jpg" alt="Chania" /></div>
 <div class="col-sm-3">
 <div class="yr-content-block w-100 h-100 one-liner">
@@ -275,7 +277,7 @@ Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire 
 </div>
 <!--- Sixth Row Ends -->
 <!--- Seventh Row Starts -->
-<div class="row yr-four yr-content yr-imgs seventh-row">
+<div class="row row-height yr-four yr-content yr-imgs seventh-row">
 <div class="col-sm-3 yr-col-imgs one">
 <div class="yr-col-content w-100 h-50">
 <div class="yr-content-block w-100 h-100 mini-liner">
@@ -359,7 +361,8 @@ A perfect ending and a perfect beginning.
 </div>
 </div>
 <!--- Seventh Row Ends -->
-<div class="row second-adv tripadvisor adv-row1">
+<!--- Second Add Row Starts -->
+<div class="row row-add-height second-adv tripadvisor adv-row1">
 <div class="col-sm-4 caro-ads_img one">
 <div class="row caro-ads2 tripadvisor-dots">
 <div class="col-sm-6">
@@ -412,8 +415,9 @@ A perfect ending and a perfect beginning.
 </div>
 </div>
 </div>
+<!--- Second Add Row Ends -->
 <!--- Eighth Row Starts -->
-<div class="row yr-four yr-content yr-imgs eighth-row">
+<div class="row row-height yr-four yr-content yr-imgs eighth-row">
 <div class="col-sm-3">
 <div class="yr-content-block w-100 h-100 yr-menu one-liner">
 <div class="yr-content-title">
@@ -531,7 +535,7 @@ Cured Salmon, Beetroot &amp; Watercress
 </div>
 <!--- Eighth Row Ends -->
 <!--- Ninth Row Starts -->
-<div class="row yr-four yr-content yr-imgs ninth-row">
+<div class="row row-height yr-four yr-content yr-imgs ninth-row">
 <div class="col-sm-3">
 <div class="yr-content-block w-100 h-100 one-liner">
 <div class="yr-content-title">
@@ -657,7 +661,7 @@ Cocktails
 </div>
 <!--- Ninth Row Ends -->
 <!--- Tenth Row Starts -->
-<div class="row yr-three yr-content yr-imgs tenth-row">
+<div class="row row-height yr-three yr-content yr-imgs tenth-row">
 <div class="col-sm-3 yr-col-imgs">
 <div class="row m-0 h-100">
 <div class="col-sm-6 yr-thumbnails"><img class="img-fluid w-100 h-66-5" src="../brochure-images/Yorebridge-Weddings-50-min.jpg" alt="Chania" /><img class="img-fluid w-100 h-33-5" src="../brochure-images/Yorebridge-Weddings-49-min.jpg" alt="Chania" /></div>
@@ -674,7 +678,7 @@ Cocktails
 </div>
 <!--- Tenth Row Ends -->
 <!--- Eleventh Row Starts -->
-<div class="row yr-three yr-imgs eleventh-row">
+<div class="row row-height yr-three yr-imgs eleventh-row">
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-59-min.jpg" alt="Chania" /></div>
 <div class="col-sm-3 yr-col-imgs"><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-57-min.jpg" alt="Chania" /><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-58-min.jpg" alt="Chania" /></div>
 <div class="col-sm-3">
@@ -723,7 +727,7 @@ For a unique and indulgent experience head down
 </div>
 <!--- Eleventh Row Ends -->
 <!--- Twelveth Row Starts -->
-<div class="row yr-four yr-content yr-imgs twelveth-row">
+<div class="row row-height yr-four yr-content yr-imgs twelveth-row">
 <div class="col-sm-3 yr-col-imgs"><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-61-min.jpg" alt="Chania" /><img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-62-min.jpg" alt="Chania" /></div>
 <div class="col-sm-3">
 <div class="yr-content-block w-100 h-100 yr-menu one-liner">
@@ -879,7 +883,7 @@ A selection of three canapés
 </div>
 <!--- Twelveth Row Ends -->
 <!--- Thirteenth Row Starts -->
-<div class="row yr-book-now-block yr-imgs thirteenth-row">
+<div class="row row-height yr-book-now-block yr-imgs thirteenth-row">
 <div class="col-sm-12">
 <div class=""><a href="#">Book Now</a></div>
 </div>
@@ -1277,4 +1281,4 @@ Wedding Menu tasting and wine tasting
 </div>
 </div>
 </div>
-</div>
+</div>f
