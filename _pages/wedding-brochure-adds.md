@@ -366,22 +366,22 @@ A perfect ending and a perfect beginning.
 <div class="col-sm-5 caro-ads_img one">
 <div class="row caro-ads2 tripadvisor-dots">
 <div class="col-sm-5">
-<div class="logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
+<div class="ta_img logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
 </div>
 <div class="col-sm-5">
-<div class="logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
+<div class="ta_img logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
 </div>
 <div class="col-sm-5">
-<div class="logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
+<div class="ta_img logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
 </div>
 <div class="col-sm-5">
-<div class="logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
+<div class="ta_img logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
 </div>
 <div class="col-sm-5">
-<div class="logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
+<div class="ta_img logo_3"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybh-romance-min.png" /></div>
 </div>
 <div class="col-sm-5">
-<div class="logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
+<div class="ta_img logo_1"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
 </div>
 </div>
 </div>
