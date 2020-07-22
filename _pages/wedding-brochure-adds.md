@@ -364,7 +364,7 @@ A perfect ending and a perfect beginning.
 <!--- Second Add Row Starts -->
 <div class="row row-add-height second-adv tripadvisor adv-row1">
 <div class="col-sm-5 caro-ads_img one">
-<div class="row caro-ads2 tripadvisor-dots">
+<div class="row caro-ads tripadvisor-dots">
 <div class="col-sm-6">
 <div class="ta_img logo_2"><img class="img-fluid" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
 </div>
