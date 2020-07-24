@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2020-06-10 17:58:47
 ---
-<div class="section-title section-title-followed-by-content covid-head">
+<div id="good-to-go" class="section-title section-title-followed-by-content covid-head">
 <h2>Covid-Secure Policies &amp; Procedures</h2>
-<p id="good-to-go" class="good-to-go"><img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/good_to_go_certificate.jpg" alt=""></p>
+<pclass="good-to-go"><img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/good_to_go_certificate.jpg" alt=""></p>
 </div>
 We’ve spent all week planning and implementing our new covid-secure policies and procedures following the official guidance which was published on the 24th June.
 
