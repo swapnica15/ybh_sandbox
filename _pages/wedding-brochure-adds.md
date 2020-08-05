@@ -85,7 +85,7 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 <!--- Second Row Ends -->
 <!--- First Add Row Starts -->
 <div class="row row-add-height adv-row1">
-<div class="col-sm-6">
+<div class="col-md-6">
 <div class="yr-content-title">
 <h3>Award Winning Hotel &amp; Restaurent</h3>
 </div>
@@ -93,7 +93,7 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 <p class="view-all-awards1"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
 
 </div>
-<div class="col-sm-6 caro-ads_img">
+<div class="col-md-6 caro-ads_img">
 [slide-anything id="4023"]
 </div>
 <p class="view-all-awards2"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
