@@ -5,7 +5,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  http://sandbox.yorebridgehouse.co.uk/wedding-brochure-adds/
+  http://sandbox.yorebridgehouse.co.uk/ybh_live/wedding-brochure-adds/
 published: true
 post_date: 2020-05-07 12:41:44
 ---
@@ -94,54 +94,7 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 
 </div>
 <div class="col-md-6 caro-ads_img">
-<div class="row caro-ads ">
-<div class="col-sm-3">
-<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/outstanding.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Notable-Wine-List17.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/2017777.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Ywinner-Yorebridge.png" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ata2017.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/ybshr.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/2016666.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/aab2017.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/awa2017dfgd4.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/cateys2016.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-notable-wine-list-award-2017-2018.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/AA-award-for-Inspectors-Choice-2017-2018.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/atatc2017.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_2"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/c23fd12.jpg" /></div>
-</div>
-<div class="col-sm-3">
-<div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Winner-Sticker-Square.jpg" /></div>
-</div>
-
-</div>
+[slide-anything id="4023"]
 </div>
 <p class="view-all-awards2"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
 
